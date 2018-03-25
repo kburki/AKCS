@@ -80,58 +80,63 @@
         <customproperties/>
       </layer-tree-layer>
     </layer-tree-group>
-    <layer-tree-group expanded="1" checked="Qt::Checked" name="Type">
+    <layer-tree-group expanded="1" checked="Qt::Unchecked" name="Type">
       <customproperties/>
-      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="AKCS_Unknown20180325012401955" source="/Volumes/360North_Projects/CS_MAP/StateOwnedCS.shp|layerid=0|subset=Site_Type = 'Unknown'" name="AKCS_Unknown">
+      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="AKCS_School20180325012401898" source="/Volumes/360North_Projects/CS_MAP/StateOwnedCS.shp|layerid=0|subset=Site_Type = 'School'" name="AKCS_School">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="AKCS_Transmission_Pipeline20180325012401926" source="/Volumes/360North_Projects/CS_MAP/StateOwnedCS.shp|layerid=0|subset=Site_Type = 'Transmission Pipeline'" name="AKCS_Transmission Pipeline">
+      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="AKCS_Airport_Airfield20180325012401612" source="/Volumes/360North_Projects/CS_MAP/StateOwnedCS.shp|layerid=0|subset=Site_Type = 'Airport Airfield'" name="AKCS_Airport Airfield">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="AKCS_School20180325012401898" source="/Volumes/360North_Projects/CS_MAP/StateOwnedCS.shp|layerid=0|subset=Site_Type = 'School'" name="AKCS_School">
+      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="AKCS_Mining_Operation20180325012401762" source="/Volumes/360North_Projects/CS_MAP/StateOwnedCS.shp|layerid=0|subset=Site_Type = 'Mining Operation'" name="AKCS_Mining Operation">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="AKCS_Sand_Grave_Borrow_Pit20180325012401870" source="/Volumes/360North_Projects/CS_MAP/StateOwnedCS.shp|layerid=0|subset=Site_Type = 'Sand Grave Borrow Pit'" name="AKCS_Sand Grave Borrow Pit">
+      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="AKCS_Maintenance_Yard_Shop20180325012401734" source="/Volumes/360North_Projects/CS_MAP/StateOwnedCS.shp|layerid=0|subset=Site_Type = 'Maintenance Yard Shop'" name="AKCS_Maintenance Yard Shop">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="AKCS_Residence20180325012401843" source="/Volumes/360North_Projects/CS_MAP/StateOwnedCS.shp|layerid=0|subset=Site_Type = 'Residence'" name="AKCS_Residence">
+      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="AKCS_Highway_Maintenance_Station20180325012401685" source="/Volumes/360North_Projects/CS_MAP/StateOwnedCS.shp|layerid=0|subset=Site_Type = 'Highway Maintenance Station'" name="AKCS_Highway Maintenance Station">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="AKCS_Park_Recreation_Area20180325012401816" source="/Volumes/360North_Projects/CS_MAP/StateOwnedCS.shp|layerid=0|subset=Site_Type = 'Park Recreation Area'" name="AKCS_Park Recreation Area">
+      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="AKCS_Residence20180325012401843" source="/Volumes/360North_Projects/CS_MAP/StateOwnedCS.shp|layerid=0|subset=Site_Type = 'Residence'" name="AKCS_Residence">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="AKCS_Other20180325012401789" source="/Volumes/360North_Projects/CS_MAP/StateOwnedCS.shp|layerid=0|subset=Site_Type = 'Other'" name="AKCS_Other">
+      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="AKCS_Firing_Range20180325012401661" source="/Volumes/360North_Projects/CS_MAP/StateOwnedCS.shp|layerid=0|subset=Site_Type = 'Firing Range'" name="AKCS_Firing Range">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="AKCS_Mining_Operation20180325012401762" source="/Volumes/360North_Projects/CS_MAP/StateOwnedCS.shp|layerid=0|subset=Site_Type = 'Mining Operation'" name="AKCS_Mining Operation">
+      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="AKCS_Other20180325012401789" source="/Volumes/360North_Projects/CS_MAP/StateOwnedCS.shp|layerid=0|subset=Site_Type = 'Other'" name="AKCS_Other">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="AKCS_Maintenance_Yard_Shop20180325012401734" source="/Volumes/360North_Projects/CS_MAP/StateOwnedCS.shp|layerid=0|subset=Site_Type = 'Maintenance Yard Shop'" name="AKCS_Maintenance Yard Shop">
+      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="AKCS_Landfill_Dump20180325012401709" source="/Volumes/360North_Projects/CS_MAP/StateOwnedCS.shp|layerid=0|subset=Site_Type = 'Landfill Dump'" name="AKCS_Landfill Dump">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="AKCS_Landfill_Dump20180325012401709" source="/Volumes/360North_Projects/CS_MAP/StateOwnedCS.shp|layerid=0|subset=Site_Type = 'Landfill Dump'" name="AKCS_Landfill Dump">
+      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="AKCS_Park_Recreation_Area20180325012401816" source="/Volumes/360North_Projects/CS_MAP/StateOwnedCS.shp|layerid=0|subset=Site_Type = 'Park Recreation Area'" name="AKCS_Park Recreation Area">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="AKCS_Highway_Maintenance_Station20180325012401685" source="/Volumes/360North_Projects/CS_MAP/StateOwnedCS.shp|layerid=0|subset=Site_Type = 'Highway Maintenance Station'" name="AKCS_Highway Maintenance Station">
+      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="AKCS_Sand_Grave_Borrow_Pit20180325012401870" source="/Volumes/360North_Projects/CS_MAP/StateOwnedCS.shp|layerid=0|subset=Site_Type = 'Sand Grave Borrow Pit'" name="AKCS_Sand Gravel Borrow Pit">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="AKCS_Firing_Range20180325012401661" source="/Volumes/360North_Projects/CS_MAP/StateOwnedCS.shp|layerid=0|subset=Site_Type = 'Firing Range'" name="AKCS_Firing Range">
+      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="AKCS_Transmission_Pipeline20180325012401926" source="/Volumes/360North_Projects/CS_MAP/StateOwnedCS.shp|layerid=0|subset=Site_Type = 'Transmission Pipeline'" name="AKCS_Transmission Pipeline">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="AKCS_Commercial_Retail_Office20180325012401637" source="/Volumes/360North_Projects/CS_MAP/StateOwnedCS.shp|layerid=0|subset=Site_Type = 'Commercial Retail Office'" name="AKCS_Commercial Retail Office">
+      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="AKCS_Commercial_Retail_Office20180325012401637" source="/Volumes/360North_Projects/CS_MAP/StateOwnedCS.shp|layerid=0|subset=Site_Type = 'Commercial Retail Office'" name="AKCS_Commercial Retail Office">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="AKCS_Airport_Airfield20180325012401612" source="/Volumes/360North_Projects/CS_MAP/StateOwnedCS.shp|layerid=0|subset=Site_Type = 'Airport Airfield'" name="AKCS_Airport Airfield">
-        <customproperties/>
+      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="AKCS_Unknown20180325012401955" source="/Volumes/360North_Projects/CS_MAP/StateOwnedCS.shp|layerid=0|subset=Site_Type = 'Unknown'" name="AKCS_Unknown">
+        <customproperties>
+          <property key="overview" value="1"/>
+        </customproperties>
       </layer-tree-layer>
     </layer-tree-group>
     <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="StateOwnedCS20180325010750616" source="/Volumes/360North_Projects/CS_MAP/StateOwnedCS.shp" name="AKCS">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="reference_map_shape20180325005828569" source="/vsizip//Volumes/360North_Projects/CS_MAP/reference_map_shape.zip" name="reference_map_shape 05000 Polygon">
+    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Checked" id="reference_map_shape20180325005828569" source="/vsizip//Volumes/360North_Projects/CS_MAP/reference_map_shape.zip" name="reference_map_shape 05000 Polygon">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="OSM_Humanitarian_Data_Model20180325005751604" source="&lt;GDAL_WMS>&#xa;  &lt;Service name=&quot;TMS&quot;>&#xa;    &lt;ServerUrl>http://a.tile.openstreetmap.fr/hot/${z}/${x}/${y}.png&lt;/ServerUrl>&#xa;  &lt;/Service>&#xa;  &lt;DataWindow>&#xa;    &lt;UpperLeftX>-20037508.34&lt;/UpperLeftX>&#xa;    &lt;UpperLeftY>20037508.34&lt;/UpperLeftY>&#xa;    &lt;LowerRightX>20037508.34&lt;/LowerRightX>&#xa;    &lt;LowerRightY>-20037508.34&lt;/LowerRightY>&#xa;    &lt;TileLevel>18&lt;/TileLevel>&#xa;    &lt;TileCountX>1&lt;/TileCountX>&#xa;    &lt;TileCountY>1&lt;/TileCountY>&#xa;    &lt;YOrigin>top&lt;/YOrigin>&#xa;  &lt;/DataWindow>&#xa;  &lt;Projection>EPSG:3857&lt;/Projection>&#xa;  &lt;BlockSizeX>256&lt;/BlockSizeX>&#xa;  &lt;BlockSizeY>256&lt;/BlockSizeY>&#xa;  &lt;BandsCount>3&lt;/BandsCount>&#xa;  &lt;Cache />&#xa;&lt;/GDAL_WMS>&#xa;" name="OSM Humanitarian Data Model">
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="Wikimedia_labelled_layer20180325013316306" source="&lt;GDAL_WMS>&#xa;  &lt;Service name=&quot;TMS&quot;>&#xa;    &lt;ServerUrl>https://maps.wikimedia.org/osm-intl/${z}/${x}/${y}.png&lt;/ServerUrl>&#xa;  &lt;/Service>&#xa;  &lt;DataWindow>&#xa;    &lt;UpperLeftX>-20037508.34&lt;/UpperLeftX>&#xa;    &lt;UpperLeftY>20037508.34&lt;/UpperLeftY>&#xa;    &lt;LowerRightX>20037508.34&lt;/LowerRightX>&#xa;    &lt;LowerRightY>-20037508.34&lt;/LowerRightY>&#xa;    &lt;TileLevel>18&lt;/TileLevel>&#xa;    &lt;TileCountX>1&lt;/TileCountX>&#xa;    &lt;TileCountY>1&lt;/TileCountY>&#xa;    &lt;YOrigin>top&lt;/YOrigin>&#xa;  &lt;/DataWindow>&#xa;  &lt;Projection>EPSG:3857&lt;/Projection>&#xa;  &lt;BlockSizeX>256&lt;/BlockSizeX>&#xa;  &lt;BlockSizeY>256&lt;/BlockSizeY>&#xa;  &lt;BandsCount>3&lt;/BandsCount>&#xa;  &lt;Cache />&#xa;&lt;/GDAL_WMS>&#xa;" name="Wikimedia labelled layer">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="OSM_Humanitarian_Data_Model20180325005751604" source="&lt;GDAL_WMS>&#xa;  &lt;Service name=&quot;TMS&quot;>&#xa;    &lt;ServerUrl>http://a.tile.openstreetmap.fr/hot/${z}/${x}/${y}.png&lt;/ServerUrl>&#xa;  &lt;/Service>&#xa;  &lt;DataWindow>&#xa;    &lt;UpperLeftX>-20037508.34&lt;/UpperLeftX>&#xa;    &lt;UpperLeftY>20037508.34&lt;/UpperLeftY>&#xa;    &lt;LowerRightX>20037508.34&lt;/LowerRightX>&#xa;    &lt;LowerRightY>-20037508.34&lt;/LowerRightY>&#xa;    &lt;TileLevel>18&lt;/TileLevel>&#xa;    &lt;TileCountX>1&lt;/TileCountX>&#xa;    &lt;TileCountY>1&lt;/TileCountY>&#xa;    &lt;YOrigin>top&lt;/YOrigin>&#xa;  &lt;/DataWindow>&#xa;  &lt;Projection>EPSG:3857&lt;/Projection>&#xa;  &lt;BlockSizeX>256&lt;/BlockSizeX>&#xa;  &lt;BlockSizeY>256&lt;/BlockSizeY>&#xa;  &lt;BandsCount>3&lt;/BandsCount>&#xa;  &lt;Cache />&#xa;&lt;/GDAL_WMS>&#xa;" name="OSM Humanitarian Data Model">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="delimitedtext" checked="Qt::Checked" id="MedianIncome20180325005948617" source="file:///Volumes/360North_Projects/CS_MAP/MedianIncome.csv?type=csv&amp;trimFields=Yes&amp;geomType=none&amp;subsetIndex=no&amp;watchFile=no" name="MedianIncome">
@@ -142,10 +147,10 @@
   <mapcanvas>
     <units>meters</units>
     <extent>
-      <xmin>-19814293.68694585561752319</xmin>
-      <ymin>8703067.33977894484996796</ymin>
-      <xmax>-14095974.87114168703556061</xmax>
-      <ymax>9399138.14658910781145096</ymax>
+      <xmin>-19079441.89424881711602211</xmin>
+      <ymin>6894843.42262766137719154</ymin>
+      <xmax>-14614273.58317916467785835</xmax>
+      <ymax>11265147.7572445422410965</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>1</projections>
@@ -328,6 +333,7 @@
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="AKCS_ADOT_PF_Paxson_Maintenance_Station_Class_V_Injection_Well20180325012234181"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="AKCS_Other20180325012401789"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="AKCS_Prince_Wales_Ketchik20180325011050960"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:3857" srcDatumTransform="-1" destDatumTransform="-1" layerid="Wikimedia_labelled_layer20180325013316306"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="AKCS_AIA_Landspreading_Area20180325012235311"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="AKCS_Fairbanks_North_Star20180325011050790"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="AKCS_Southeast_Fairbanks20180325011051021"/>
@@ -370,6 +376,7 @@
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="AKCS_ADOT_PF_King_Salmon_Airport_Sand_Storage_Bldg20180325012233829"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="AKCS_ADOT_PF_Unalaska_Airport_Revetment__220180325012235068"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="AKCS_ADOT_PF_South_Cushman_Street_Right_of_Way_Near_16th_Avenue20180325012234830"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:3857" srcDatumTransform="-1" destDatumTransform="-1" layerid="OpenLayers_plugin_layer20180325013018081"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="AKCS_Mountain_Village_Elementary_School20180325012239429"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:3857" srcDatumTransform="-1" destDatumTransform="-1" layerid="OpenStreetMap20180325005739488"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="AKCS_USFS_Salt_Chuck_Mine20180325012241018"/>
@@ -421,6 +428,7 @@
       <item>AKCS_School20180325012401898</item>
       <item>AKCS_Transmission_Pipeline20180325012401926</item>
       <item>AKCS_Unknown20180325012401955</item>
+      <item>Wikimedia_labelled_layer20180325013316306</item>
     </custom-order>
   </layer-tree-canvas>
   <legend updateDrawingOrder="true">
@@ -546,75 +554,75 @@
         </filegroup>
       </legendlayer>
     </legendgroup>
-    <legendgroup open="true" checked="Qt::Checked" name="Type">
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="AKCS_Unknown" showFeatureCount="0">
+    <legendgroup open="true" checked="Qt::Unchecked" name="Type">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="AKCS_School" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="AKCS_Unknown20180325012401955" visible="1"/>
+          <legendlayerfile isInOverview="0" layerid="AKCS_School20180325012401898" visible="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="AKCS_Transmission Pipeline" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="AKCS_Airport Airfield" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="AKCS_Transmission_Pipeline20180325012401926" visible="1"/>
+          <legendlayerfile isInOverview="0" layerid="AKCS_Airport_Airfield20180325012401612" visible="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="AKCS_School" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="AKCS_Mining Operation" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="AKCS_School20180325012401898" visible="1"/>
+          <legendlayerfile isInOverview="0" layerid="AKCS_Mining_Operation20180325012401762" visible="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="AKCS_Sand Grave Borrow Pit" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="AKCS_Maintenance Yard Shop" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="AKCS_Sand_Grave_Borrow_Pit20180325012401870" visible="1"/>
+          <legendlayerfile isInOverview="0" layerid="AKCS_Maintenance_Yard_Shop20180325012401734" visible="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="AKCS_Residence" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="AKCS_Highway Maintenance Station" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="AKCS_Residence20180325012401843" visible="1"/>
+          <legendlayerfile isInOverview="0" layerid="AKCS_Highway_Maintenance_Station20180325012401685" visible="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="AKCS_Park Recreation Area" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="AKCS_Residence" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="AKCS_Park_Recreation_Area20180325012401816" visible="1"/>
+          <legendlayerfile isInOverview="0" layerid="AKCS_Residence20180325012401843" visible="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="AKCS_Other" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="AKCS_Firing Range" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="AKCS_Other20180325012401789" visible="1"/>
+          <legendlayerfile isInOverview="0" layerid="AKCS_Firing_Range20180325012401661" visible="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="AKCS_Mining Operation" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="AKCS_Other" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="AKCS_Mining_Operation20180325012401762" visible="1"/>
+          <legendlayerfile isInOverview="0" layerid="AKCS_Other20180325012401789" visible="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="AKCS_Maintenance Yard Shop" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="AKCS_Landfill Dump" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="AKCS_Maintenance_Yard_Shop20180325012401734" visible="1"/>
+          <legendlayerfile isInOverview="0" layerid="AKCS_Landfill_Dump20180325012401709" visible="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="AKCS_Landfill Dump" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="AKCS_Park Recreation Area" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="AKCS_Landfill_Dump20180325012401709" visible="1"/>
+          <legendlayerfile isInOverview="0" layerid="AKCS_Park_Recreation_Area20180325012401816" visible="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="AKCS_Highway Maintenance Station" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="AKCS_Sand Gravel Borrow Pit" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="AKCS_Highway_Maintenance_Station20180325012401685" visible="1"/>
+          <legendlayerfile isInOverview="0" layerid="AKCS_Sand_Grave_Borrow_Pit20180325012401870" visible="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="AKCS_Firing Range" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="AKCS_Transmission Pipeline" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="AKCS_Firing_Range20180325012401661" visible="1"/>
+          <legendlayerfile isInOverview="0" layerid="AKCS_Transmission_Pipeline20180325012401926" visible="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="AKCS_Commercial Retail Office" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="AKCS_Commercial Retail Office" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="AKCS_Commercial_Retail_Office20180325012401637" visible="1"/>
+          <legendlayerfile isInOverview="0" layerid="AKCS_Commercial_Retail_Office20180325012401637" visible="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="AKCS_Airport Airfield" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="AKCS_Unknown" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="AKCS_Airport_Airfield20180325012401612" visible="1"/>
+          <legendlayerfile isInOverview="1" layerid="AKCS_Unknown20180325012401955" visible="0"/>
         </filegroup>
       </legendlayer>
     </legendgroup>
@@ -623,14 +631,19 @@
         <legendlayerfile isInOverview="0" layerid="StateOwnedCS20180325010750616" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="reference_map_shape 05000 Polygon" showFeatureCount="0">
-      <filegroup open="true" hidden="false">
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="reference_map_shape 05000 Polygon" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
         <legendlayerfile isInOverview="0" layerid="reference_map_shape20180325005828569" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="OSM Humanitarian Data Model" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="Wikimedia labelled layer" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="OSM_Humanitarian_Data_Model20180325005751604" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="Wikimedia_labelled_layer20180325013316306" visible="1"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="OSM Humanitarian Data Model" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="OSM_Humanitarian_Data_Model20180325005751604" visible="0"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="MedianIncome" showFeatureCount="0">
@@ -806,7 +819,28 @@
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
       <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
-        <columns/>
+        <columns>
+          <column width="-1" hidden="0" type="field" name="Hazard ID"/>
+          <column width="-1" hidden="0" type="field" name="File ID"/>
+          <column width="-1" hidden="0" type="field" name="Archived R"/>
+          <column width="-1" hidden="0" type="field" name="LUST Event"/>
+          <column width="-1" hidden="0" type="field" name="CS or LUST"/>
+          <column width="-1" hidden="0" type="field" name="Site_Name"/>
+          <column width="-1" hidden="0" type="field" name="Address"/>
+          <column width="-1" hidden="0" type="field" name="City"/>
+          <column width="-1" hidden="0" type="field" name="Borough"/>
+          <column width="-1" hidden="0" type="field" name="State"/>
+          <column width="-1" hidden="0" type="field" name="Zip Code"/>
+          <column width="-1" hidden="0" type="field" name="Status"/>
+          <column width="-1" hidden="0" type="field" name="Staff"/>
+          <column width="-1" hidden="0" type="field" name="Landowner"/>
+          <column width="-1" hidden="0" type="field" name="Site_Type"/>
+          <column width="-1" hidden="0" type="field" name="Latitude"/>
+          <column width="-1" hidden="0" type="field" name="Longitude"/>
+          <column width="-1" hidden="0" type="field" name="Horizontal"/>
+          <column width="-1" hidden="0" type="field" name="orig_ogc_fid"/>
+          <column width="-1" hidden="1" type="actions"/>
+        </columns>
       </attributetableconfig>
       <editform></editform>
       <editforminit/>
@@ -841,7 +875,7 @@
         <default field="Horizontal" expression=""/>
         <default field="orig_ogc_fid" expression=""/>
       </defaults>
-      <previewExpression></previewExpression>
+      <previewExpression>COALESCE( "Site_Name", '&lt;NULL>' )</previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>AKCS_Aleutian_Islands20180325011050703</id>
@@ -1859,6 +1893,12 @@
       <previewExpression></previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <extent>
+        <xmin>-147.82586499999999319</xmin>
+        <ymin>64.85760600000000409</ymin>
+        <xmax>-147.82586499999999319</xmax>
+        <ymax>64.85760600000000409</ymax>
+      </extent>
       <id>AKCS_Commercial_Retail_Office20180325012401637</id>
       <datasource>./StateOwnedCS.shp|layerid=0|subset=Site_Type = 'Commercial Retail Office'</datasource>
       <keywordList>
@@ -2024,7 +2064,28 @@
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
       <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="7">
-        <columns/>
+        <columns>
+          <column width="-1" hidden="0" type="field" name="Hazard ID"/>
+          <column width="-1" hidden="0" type="field" name="File ID"/>
+          <column width="-1" hidden="0" type="field" name="Archived R"/>
+          <column width="-1" hidden="0" type="field" name="LUST Event"/>
+          <column width="-1" hidden="0" type="field" name="CS or LUST"/>
+          <column width="-1" hidden="0" type="field" name="Site_Name"/>
+          <column width="-1" hidden="0" type="field" name="Address"/>
+          <column width="-1" hidden="0" type="field" name="City"/>
+          <column width="-1" hidden="0" type="field" name="Borough"/>
+          <column width="-1" hidden="0" type="field" name="State"/>
+          <column width="-1" hidden="0" type="field" name="Zip Code"/>
+          <column width="-1" hidden="0" type="field" name="Status"/>
+          <column width="-1" hidden="0" type="field" name="Staff"/>
+          <column width="-1" hidden="0" type="field" name="Landowner"/>
+          <column width="-1" hidden="0" type="field" name="Site_Type"/>
+          <column width="-1" hidden="0" type="field" name="Latitude"/>
+          <column width="-1" hidden="0" type="field" name="Longitude"/>
+          <column width="-1" hidden="0" type="field" name="Horizontal"/>
+          <column width="-1" hidden="0" type="field" name="orig_ogc_fid"/>
+          <column width="-1" hidden="1" type="actions"/>
+        </columns>
       </attributetableconfig>
       <editform></editform>
       <editforminit/>
@@ -2059,7 +2120,7 @@
         <default field="Horizontal" expression=""/>
         <default field="orig_ogc_fid" expression=""/>
       </defaults>
-      <previewExpression></previewExpression>
+      <previewExpression>COALESCE( "Site_Name", '&lt;NULL>' )</previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>AKCS_Dillingham20180325011050775</id>
@@ -2468,6 +2529,12 @@
       <previewExpression></previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <extent>
+        <xmin>-149.84704700000000344</xmin>
+        <ymin>55.88192999999999699</ymin>
+        <xmax>-133.19617999999999824</xmax>
+        <ymax>64.79777799999999388</ymax>
+      </extent>
       <id>AKCS_Firing_Range20180325012401661</id>
       <datasource>./StateOwnedCS.shp|layerid=0|subset=Site_Type = 'Firing Range'</datasource>
       <keywordList>
@@ -2633,7 +2700,28 @@
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
       <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
-        <columns/>
+        <columns>
+          <column width="-1" hidden="0" type="field" name="Hazard ID"/>
+          <column width="-1" hidden="0" type="field" name="File ID"/>
+          <column width="-1" hidden="0" type="field" name="Archived R"/>
+          <column width="-1" hidden="0" type="field" name="LUST Event"/>
+          <column width="-1" hidden="0" type="field" name="CS or LUST"/>
+          <column width="-1" hidden="0" type="field" name="Site_Name"/>
+          <column width="-1" hidden="0" type="field" name="Address"/>
+          <column width="-1" hidden="0" type="field" name="City"/>
+          <column width="-1" hidden="0" type="field" name="Borough"/>
+          <column width="-1" hidden="0" type="field" name="State"/>
+          <column width="-1" hidden="0" type="field" name="Zip Code"/>
+          <column width="-1" hidden="0" type="field" name="Status"/>
+          <column width="-1" hidden="0" type="field" name="Staff"/>
+          <column width="-1" hidden="0" type="field" name="Landowner"/>
+          <column width="-1" hidden="0" type="field" name="Site_Type"/>
+          <column width="-1" hidden="0" type="field" name="Latitude"/>
+          <column width="-1" hidden="0" type="field" name="Longitude"/>
+          <column width="-1" hidden="0" type="field" name="Horizontal"/>
+          <column width="-1" hidden="0" type="field" name="orig_ogc_fid"/>
+          <column width="-1" hidden="1" type="actions"/>
+        </columns>
       </attributetableconfig>
       <editform></editform>
       <editforminit/>
@@ -2668,7 +2756,7 @@
         <default field="Horizontal" expression=""/>
         <default field="orig_ogc_fid" expression=""/>
       </defaults>
-      <previewExpression></previewExpression>
+      <previewExpression>COALESCE( "Site_Name", '&lt;NULL>' )</previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>AKCS_Haines20180325011050806</id>
@@ -2874,6 +2962,12 @@
       <previewExpression></previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <extent>
+        <xmin>-152.43600299999999947</xmin>
+        <ymin>57.58885800000000188</ymin>
+        <xmax>-144.79475199999998836</xmax>
+        <ymax>65.57314200000000426</ymax>
+      </extent>
       <id>AKCS_Highway_Maintenance_Station20180325012401685</id>
       <datasource>./StateOwnedCS.shp|layerid=0|subset=Site_Type = 'Highway Maintenance Station'</datasource>
       <keywordList>
@@ -3039,7 +3133,28 @@
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
       <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
-        <columns/>
+        <columns>
+          <column width="-1" hidden="0" type="field" name="Hazard ID"/>
+          <column width="-1" hidden="0" type="field" name="File ID"/>
+          <column width="-1" hidden="0" type="field" name="Archived R"/>
+          <column width="-1" hidden="0" type="field" name="LUST Event"/>
+          <column width="-1" hidden="0" type="field" name="CS or LUST"/>
+          <column width="-1" hidden="0" type="field" name="Site_Name"/>
+          <column width="-1" hidden="0" type="field" name="Address"/>
+          <column width="-1" hidden="0" type="field" name="City"/>
+          <column width="-1" hidden="0" type="field" name="Borough"/>
+          <column width="-1" hidden="0" type="field" name="State"/>
+          <column width="-1" hidden="0" type="field" name="Zip Code"/>
+          <column width="-1" hidden="0" type="field" name="Status"/>
+          <column width="-1" hidden="0" type="field" name="Staff"/>
+          <column width="-1" hidden="0" type="field" name="Landowner"/>
+          <column width="-1" hidden="0" type="field" name="Site_Type"/>
+          <column width="-1" hidden="0" type="field" name="Latitude"/>
+          <column width="-1" hidden="0" type="field" name="Longitude"/>
+          <column width="-1" hidden="0" type="field" name="Horizontal"/>
+          <column width="-1" hidden="0" type="field" name="orig_ogc_fid"/>
+          <column width="-1" hidden="1" type="actions"/>
+        </columns>
       </attributetableconfig>
       <editform></editform>
       <editforminit/>
@@ -3074,7 +3189,7 @@
         <default field="Horizontal" expression=""/>
         <default field="orig_ogc_fid" expression=""/>
       </defaults>
-      <previewExpression></previewExpression>
+      <previewExpression>COALESCE( "Site_Name", '&lt;NULL>' )</previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>AKCS_Juneau20180325011050822</id>
@@ -3889,6 +4004,12 @@
       <previewExpression></previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <extent>
+        <xmin>-149.9834329999999909</xmin>
+        <ymin>61.1811310000000006</ymin>
+        <xmax>-149.86689000000001215</xmax>
+        <ymax>61.39795999999999765</ymax>
+      </extent>
       <id>AKCS_Landfill_Dump20180325012401709</id>
       <datasource>./StateOwnedCS.shp|layerid=0|subset=Site_Type = 'Landfill Dump'</datasource>
       <keywordList>
@@ -4054,7 +4175,28 @@
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
       <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="7">
-        <columns/>
+        <columns>
+          <column width="-1" hidden="0" type="field" name="Hazard ID"/>
+          <column width="-1" hidden="0" type="field" name="File ID"/>
+          <column width="-1" hidden="0" type="field" name="Archived R"/>
+          <column width="-1" hidden="0" type="field" name="LUST Event"/>
+          <column width="-1" hidden="0" type="field" name="CS or LUST"/>
+          <column width="-1" hidden="0" type="field" name="Site_Name"/>
+          <column width="-1" hidden="0" type="field" name="Address"/>
+          <column width="-1" hidden="0" type="field" name="City"/>
+          <column width="-1" hidden="0" type="field" name="Borough"/>
+          <column width="-1" hidden="0" type="field" name="State"/>
+          <column width="-1" hidden="0" type="field" name="Zip Code"/>
+          <column width="-1" hidden="0" type="field" name="Status"/>
+          <column width="-1" hidden="0" type="field" name="Staff"/>
+          <column width="-1" hidden="0" type="field" name="Landowner"/>
+          <column width="-1" hidden="0" type="field" name="Site_Type"/>
+          <column width="-1" hidden="0" type="field" name="Latitude"/>
+          <column width="-1" hidden="0" type="field" name="Longitude"/>
+          <column width="-1" hidden="0" type="field" name="Horizontal"/>
+          <column width="-1" hidden="0" type="field" name="orig_ogc_fid"/>
+          <column width="-1" hidden="1" type="actions"/>
+        </columns>
       </attributetableconfig>
       <editform></editform>
       <editforminit/>
@@ -4089,9 +4231,15 @@
         <default field="Horizontal" expression=""/>
         <default field="orig_ogc_fid" expression=""/>
       </defaults>
-      <previewExpression></previewExpression>
+      <previewExpression>COALESCE( "Site_Name", '&lt;NULL>' )</previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <extent>
+        <xmin>-170.48697999999998842</xmin>
+        <ymin>59.05158000000000129</ymin>
+        <xmax>-139.67076099999999883</xmax>
+        <ymax>67.10033500000000117</ymax>
+      </extent>
       <id>AKCS_Maintenance_Yard_Shop20180325012401734</id>
       <datasource>./StateOwnedCS.shp|layerid=0|subset=Site_Type = 'Maintenance Yard Shop'</datasource>
       <keywordList>
@@ -4257,7 +4405,28 @@
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
       <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
-        <columns/>
+        <columns>
+          <column width="-1" hidden="0" type="field" name="Hazard ID"/>
+          <column width="-1" hidden="0" type="field" name="File ID"/>
+          <column width="-1" hidden="0" type="field" name="Archived R"/>
+          <column width="-1" hidden="0" type="field" name="LUST Event"/>
+          <column width="-1" hidden="0" type="field" name="CS or LUST"/>
+          <column width="-1" hidden="0" type="field" name="Site_Name"/>
+          <column width="-1" hidden="0" type="field" name="Address"/>
+          <column width="-1" hidden="0" type="field" name="City"/>
+          <column width="-1" hidden="0" type="field" name="Borough"/>
+          <column width="-1" hidden="0" type="field" name="State"/>
+          <column width="-1" hidden="0" type="field" name="Zip Code"/>
+          <column width="-1" hidden="0" type="field" name="Status"/>
+          <column width="-1" hidden="0" type="field" name="Staff"/>
+          <column width="-1" hidden="0" type="field" name="Landowner"/>
+          <column width="-1" hidden="0" type="field" name="Site_Type"/>
+          <column width="-1" hidden="0" type="field" name="Latitude"/>
+          <column width="-1" hidden="0" type="field" name="Longitude"/>
+          <column width="-1" hidden="0" type="field" name="Horizontal"/>
+          <column width="-1" hidden="0" type="field" name="orig_ogc_fid"/>
+          <column width="-1" hidden="1" type="actions"/>
+        </columns>
       </attributetableconfig>
       <editform></editform>
       <editforminit/>
@@ -4292,7 +4461,7 @@
         <default field="Horizontal" expression=""/>
         <default field="orig_ogc_fid" expression=""/>
       </defaults>
-      <previewExpression></previewExpression>
+      <previewExpression>COALESCE( "Site_Name", '&lt;NULL>' )</previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>AKCS_Matanuska_Susitna20180325011050888</id>
@@ -4663,7 +4832,28 @@
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
       <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="6619235">
-        <columns/>
+        <columns>
+          <column width="-1" hidden="0" type="field" name="Hazard ID"/>
+          <column width="-1" hidden="0" type="field" name="File ID"/>
+          <column width="-1" hidden="0" type="field" name="Archived R"/>
+          <column width="-1" hidden="0" type="field" name="LUST Event"/>
+          <column width="-1" hidden="0" type="field" name="CS or LUST"/>
+          <column width="-1" hidden="0" type="field" name="Site_Name"/>
+          <column width="-1" hidden="0" type="field" name="Address"/>
+          <column width="-1" hidden="0" type="field" name="City"/>
+          <column width="-1" hidden="0" type="field" name="Borough"/>
+          <column width="-1" hidden="0" type="field" name="State"/>
+          <column width="-1" hidden="0" type="field" name="Zip Code"/>
+          <column width="-1" hidden="0" type="field" name="Status"/>
+          <column width="-1" hidden="0" type="field" name="Staff"/>
+          <column width="-1" hidden="0" type="field" name="Landowner"/>
+          <column width="-1" hidden="0" type="field" name="Site_Type"/>
+          <column width="-1" hidden="0" type="field" name="Latitude"/>
+          <column width="-1" hidden="0" type="field" name="Longitude"/>
+          <column width="-1" hidden="0" type="field" name="Horizontal"/>
+          <column width="-1" hidden="0" type="field" name="orig_ogc_fid"/>
+          <column width="-1" hidden="1" type="actions"/>
+        </columns>
       </attributetableconfig>
       <editform></editform>
       <editforminit/>
@@ -4698,7 +4888,7 @@
         <default field="Horizontal" expression=""/>
         <default field="orig_ogc_fid" expression=""/>
       </defaults>
-      <previewExpression></previewExpression>
+      <previewExpression>COALESCE( "Site_Name", '&lt;NULL>' )</previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>AKCS_NULL20180325011050688</id>
@@ -5513,6 +5703,12 @@
       <previewExpression></previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <extent>
+        <xmin>-162.58541700000000674</xmin>
+        <ymin>64.83343899999999849</ymin>
+        <xmax>-147.71694199999998887</xmax>
+        <ymax>66.90333300000000349</ymax>
+      </extent>
       <id>AKCS_Other20180325012401789</id>
       <datasource>./StateOwnedCS.shp|layerid=0|subset=Site_Type = 'Other'</datasource>
       <keywordList>
@@ -5678,7 +5874,28 @@
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
       <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
-        <columns/>
+        <columns>
+          <column width="-1" hidden="0" type="field" name="Hazard ID"/>
+          <column width="-1" hidden="0" type="field" name="File ID"/>
+          <column width="-1" hidden="0" type="field" name="Archived R"/>
+          <column width="-1" hidden="0" type="field" name="LUST Event"/>
+          <column width="-1" hidden="0" type="field" name="CS or LUST"/>
+          <column width="-1" hidden="0" type="field" name="Site_Name"/>
+          <column width="-1" hidden="0" type="field" name="Address"/>
+          <column width="-1" hidden="0" type="field" name="City"/>
+          <column width="-1" hidden="0" type="field" name="Borough"/>
+          <column width="-1" hidden="0" type="field" name="State"/>
+          <column width="-1" hidden="0" type="field" name="Zip Code"/>
+          <column width="-1" hidden="0" type="field" name="Status"/>
+          <column width="-1" hidden="0" type="field" name="Staff"/>
+          <column width="-1" hidden="0" type="field" name="Landowner"/>
+          <column width="-1" hidden="0" type="field" name="Site_Type"/>
+          <column width="-1" hidden="0" type="field" name="Latitude"/>
+          <column width="-1" hidden="0" type="field" name="Longitude"/>
+          <column width="-1" hidden="0" type="field" name="Horizontal"/>
+          <column width="-1" hidden="0" type="field" name="orig_ogc_fid"/>
+          <column width="-1" hidden="1" type="actions"/>
+        </columns>
       </attributetableconfig>
       <editform></editform>
       <editforminit/>
@@ -5713,9 +5930,15 @@
         <default field="Horizontal" expression=""/>
         <default field="orig_ogc_fid" expression=""/>
       </defaults>
-      <previewExpression></previewExpression>
+      <previewExpression>COALESCE( "Site_Name", '&lt;NULL>' )</previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <extent>
+        <xmin>-151.27923100000001</xmin>
+        <ymin>60.35732000000000141</ymin>
+        <xmax>-151.27833300000000349</xmax>
+        <ymax>60.35831799999999703</ymax>
+      </extent>
       <id>AKCS_Park_Recreation_Area20180325012401816</id>
       <datasource>./StateOwnedCS.shp|layerid=0|subset=Site_Type = 'Park Recreation Area'</datasource>
       <keywordList>
@@ -5881,7 +6104,28 @@
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
       <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
-        <columns/>
+        <columns>
+          <column width="-1" hidden="0" type="field" name="Hazard ID"/>
+          <column width="-1" hidden="0" type="field" name="File ID"/>
+          <column width="-1" hidden="0" type="field" name="Archived R"/>
+          <column width="-1" hidden="0" type="field" name="LUST Event"/>
+          <column width="-1" hidden="0" type="field" name="CS or LUST"/>
+          <column width="-1" hidden="0" type="field" name="Site_Name"/>
+          <column width="-1" hidden="0" type="field" name="Address"/>
+          <column width="-1" hidden="0" type="field" name="City"/>
+          <column width="-1" hidden="0" type="field" name="Borough"/>
+          <column width="-1" hidden="0" type="field" name="State"/>
+          <column width="-1" hidden="0" type="field" name="Zip Code"/>
+          <column width="-1" hidden="0" type="field" name="Status"/>
+          <column width="-1" hidden="0" type="field" name="Staff"/>
+          <column width="-1" hidden="0" type="field" name="Landowner"/>
+          <column width="-1" hidden="0" type="field" name="Site_Type"/>
+          <column width="-1" hidden="0" type="field" name="Latitude"/>
+          <column width="-1" hidden="0" type="field" name="Longitude"/>
+          <column width="-1" hidden="0" type="field" name="Horizontal"/>
+          <column width="-1" hidden="0" type="field" name="orig_ogc_fid"/>
+          <column width="-1" hidden="1" type="actions"/>
+        </columns>
       </attributetableconfig>
       <editform></editform>
       <editforminit/>
@@ -5916,7 +6160,7 @@
         <default field="Horizontal" expression=""/>
         <default field="orig_ogc_fid" expression=""/>
       </defaults>
-      <previewExpression></previewExpression>
+      <previewExpression>COALESCE( "Site_Name", '&lt;NULL>' )</previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>AKCS_Prince_Wales_Ketchik20180325011050960</id>
@@ -6122,6 +6366,12 @@
       <previewExpression></previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <extent>
+        <xmin>-147.80984799999998813</xmin>
+        <ymin>55.20708599999999677</ymin>
+        <xmax>-132.82743400000001088</xmax>
+        <ymax>65.14457099999999912</ymax>
+      </extent>
       <id>AKCS_Residence20180325012401843</id>
       <datasource>./StateOwnedCS.shp|layerid=0|subset=Site_Type = 'Residence'</datasource>
       <keywordList>
@@ -6325,12 +6575,18 @@
       <previewExpression></previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <extent>
+        <xmin>-139.6622030000000052</xmin>
+        <ymin>59.51595300000000321</ymin>
+        <xmax>-139.6622030000000052</xmax>
+        <ymax>59.51595300000000321</ymax>
+      </extent>
       <id>AKCS_Sand_Grave_Borrow_Pit20180325012401870</id>
       <datasource>./StateOwnedCS.shp|layerid=0|subset=Site_Type = 'Sand Grave Borrow Pit'</datasource>
       <keywordList>
         <value></value>
       </keywordList>
-      <layername>AKCS_Sand Grave Borrow Pit</layername>
+      <layername>AKCS_Sand Gravel Borrow Pit</layername>
       <srs>
         <spatialrefsys>
           <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
@@ -6490,7 +6746,28 @@
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
       <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
-        <columns/>
+        <columns>
+          <column width="-1" hidden="0" type="field" name="Hazard ID"/>
+          <column width="-1" hidden="0" type="field" name="File ID"/>
+          <column width="-1" hidden="0" type="field" name="Archived R"/>
+          <column width="-1" hidden="0" type="field" name="LUST Event"/>
+          <column width="-1" hidden="0" type="field" name="CS or LUST"/>
+          <column width="-1" hidden="0" type="field" name="Site_Name"/>
+          <column width="-1" hidden="0" type="field" name="Address"/>
+          <column width="-1" hidden="0" type="field" name="City"/>
+          <column width="-1" hidden="0" type="field" name="Borough"/>
+          <column width="-1" hidden="0" type="field" name="State"/>
+          <column width="-1" hidden="0" type="field" name="Zip Code"/>
+          <column width="-1" hidden="0" type="field" name="Status"/>
+          <column width="-1" hidden="0" type="field" name="Staff"/>
+          <column width="-1" hidden="0" type="field" name="Landowner"/>
+          <column width="-1" hidden="0" type="field" name="Site_Type"/>
+          <column width="-1" hidden="0" type="field" name="Latitude"/>
+          <column width="-1" hidden="0" type="field" name="Longitude"/>
+          <column width="-1" hidden="0" type="field" name="Horizontal"/>
+          <column width="-1" hidden="0" type="field" name="orig_ogc_fid"/>
+          <column width="-1" hidden="1" type="actions"/>
+        </columns>
       </attributetableconfig>
       <editform></editform>
       <editforminit/>
@@ -6525,7 +6802,7 @@
         <default field="Horizontal" expression=""/>
         <default field="orig_ogc_fid" expression=""/>
       </defaults>
-      <previewExpression></previewExpression>
+      <previewExpression>COALESCE( "Site_Name", '&lt;NULL>' )</previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>AKCS_School20180325012401898</id>
@@ -6693,7 +6970,28 @@
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
       <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="7">
-        <columns/>
+        <columns>
+          <column width="-1" hidden="0" type="field" name="Hazard ID"/>
+          <column width="-1" hidden="0" type="field" name="File ID"/>
+          <column width="-1" hidden="0" type="field" name="Archived R"/>
+          <column width="-1" hidden="0" type="field" name="LUST Event"/>
+          <column width="-1" hidden="0" type="field" name="CS or LUST"/>
+          <column width="-1" hidden="0" type="field" name="Site_Name"/>
+          <column width="-1" hidden="0" type="field" name="Address"/>
+          <column width="-1" hidden="0" type="field" name="City"/>
+          <column width="-1" hidden="0" type="field" name="Borough"/>
+          <column width="-1" hidden="0" type="field" name="State"/>
+          <column width="-1" hidden="0" type="field" name="Zip Code"/>
+          <column width="-1" hidden="0" type="field" name="Status"/>
+          <column width="-1" hidden="0" type="field" name="Staff"/>
+          <column width="-1" hidden="0" type="field" name="Landowner"/>
+          <column width="-1" hidden="0" type="field" name="Site_Type"/>
+          <column width="-1" hidden="0" type="field" name="Latitude"/>
+          <column width="-1" hidden="0" type="field" name="Longitude"/>
+          <column width="-1" hidden="0" type="field" name="Horizontal"/>
+          <column width="-1" hidden="0" type="field" name="orig_ogc_fid"/>
+          <column width="-1" hidden="1" type="actions"/>
+        </columns>
       </attributetableconfig>
       <editform></editform>
       <editforminit/>
@@ -6728,7 +7026,7 @@
         <default field="Horizontal" expression=""/>
         <default field="orig_ogc_fid" expression=""/>
       </defaults>
-      <previewExpression></previewExpression>
+      <previewExpression>COALESCE( "Site_Name", '&lt;NULL>' )</previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>AKCS_Sitka20180325011050978</id>
@@ -7340,6 +7638,12 @@
       <previewExpression></previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <extent>
+        <xmin>-151.50077999999999179</xmin>
+        <ymin>60.147984000000001</ymin>
+        <xmax>-151.50077999999999179</xmax>
+        <ymax>60.147984000000001</ymax>
+      </extent>
       <id>AKCS_Transmission_Pipeline20180325012401926</id>
       <datasource>./StateOwnedCS.shp|layerid=0|subset=Site_Type = 'Transmission Pipeline'</datasource>
       <keywordList>
@@ -7505,7 +7809,28 @@
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
       <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
-        <columns/>
+        <columns>
+          <column width="-1" hidden="0" type="field" name="Hazard ID"/>
+          <column width="-1" hidden="0" type="field" name="File ID"/>
+          <column width="-1" hidden="0" type="field" name="Archived R"/>
+          <column width="-1" hidden="0" type="field" name="LUST Event"/>
+          <column width="-1" hidden="0" type="field" name="CS or LUST"/>
+          <column width="-1" hidden="0" type="field" name="Site_Name"/>
+          <column width="-1" hidden="0" type="field" name="Address"/>
+          <column width="-1" hidden="0" type="field" name="City"/>
+          <column width="-1" hidden="0" type="field" name="Borough"/>
+          <column width="-1" hidden="0" type="field" name="State"/>
+          <column width="-1" hidden="0" type="field" name="Zip Code"/>
+          <column width="-1" hidden="0" type="field" name="Status"/>
+          <column width="-1" hidden="0" type="field" name="Staff"/>
+          <column width="-1" hidden="0" type="field" name="Landowner"/>
+          <column width="-1" hidden="0" type="field" name="Site_Type"/>
+          <column width="-1" hidden="0" type="field" name="Latitude"/>
+          <column width="-1" hidden="0" type="field" name="Longitude"/>
+          <column width="-1" hidden="0" type="field" name="Horizontal"/>
+          <column width="-1" hidden="0" type="field" name="orig_ogc_fid"/>
+          <column width="-1" hidden="1" type="actions"/>
+        </columns>
       </attributetableconfig>
       <editform></editform>
       <editforminit/>
@@ -7540,9 +7865,15 @@
         <default field="Horizontal" expression=""/>
         <default field="orig_ogc_fid" expression=""/>
       </defaults>
-      <previewExpression></previewExpression>
+      <previewExpression>COALESCE( "Site_Name", '&lt;NULL>' )</previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <extent>
+        <xmin>-165.39490000000000691</xmin>
+        <ymin>64.49599999999999511</ymin>
+        <xmax>-165.39490000000000691</xmax>
+        <ymax>64.49599999999999511</ymax>
+      </extent>
       <id>AKCS_Unknown20180325012401955</id>
       <datasource>./StateOwnedCS.shp|layerid=0|subset=Site_Type = 'Unknown'</datasource>
       <keywordList>
@@ -7708,7 +8039,28 @@
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
       <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="7">
-        <columns/>
+        <columns>
+          <column width="-1" hidden="0" type="field" name="Hazard ID"/>
+          <column width="-1" hidden="0" type="field" name="File ID"/>
+          <column width="-1" hidden="0" type="field" name="Archived R"/>
+          <column width="-1" hidden="0" type="field" name="LUST Event"/>
+          <column width="-1" hidden="0" type="field" name="CS or LUST"/>
+          <column width="-1" hidden="0" type="field" name="Site_Name"/>
+          <column width="-1" hidden="0" type="field" name="Address"/>
+          <column width="-1" hidden="0" type="field" name="City"/>
+          <column width="-1" hidden="0" type="field" name="Borough"/>
+          <column width="-1" hidden="0" type="field" name="State"/>
+          <column width="-1" hidden="0" type="field" name="Zip Code"/>
+          <column width="-1" hidden="0" type="field" name="Status"/>
+          <column width="-1" hidden="0" type="field" name="Staff"/>
+          <column width="-1" hidden="0" type="field" name="Landowner"/>
+          <column width="-1" hidden="0" type="field" name="Site_Type"/>
+          <column width="-1" hidden="0" type="field" name="Latitude"/>
+          <column width="-1" hidden="0" type="field" name="Longitude"/>
+          <column width="-1" hidden="0" type="field" name="Horizontal"/>
+          <column width="-1" hidden="0" type="field" name="orig_ogc_fid"/>
+          <column width="-1" hidden="1" type="actions"/>
+        </columns>
       </attributetableconfig>
       <editform></editform>
       <editforminit/>
@@ -7743,7 +8095,7 @@
         <default field="Horizontal" expression=""/>
         <default field="orig_ogc_fid" expression=""/>
       </defaults>
-      <previewExpression></previewExpression>
+      <previewExpression>COALESCE( "Site_Name", '&lt;NULL>' )</previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>AKCS_Valdez_Cordova20180325011051042</id>
@@ -8497,6 +8849,12 @@
       <blendMode>0</blendMode>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <extent>
+        <xmin>-170.48697999999998842</xmin>
+        <ymin>52.94007500000000022</ymin>
+        <xmax>-132.28575200000000223</xmax>
+        <ymax>70.19997100000000501</ymax>
+      </extent>
       <id>StateOwnedCS20180325010750616</id>
       <datasource>./StateOwnedCS.shp</datasource>
       <keywordList>
@@ -8904,6 +9262,74 @@ def my_form_open(dialog, layer, feature):
       </defaults>
       <previewExpression>COALESCE( "Site Name", '&lt;NULL>' )</previewExpression>
     </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-20037508.33999999985098839</xmin>
+        <ymin>-20037508.33999999985098839</ymin>
+        <xmax>20037508.33999999985098839</xmax>
+        <ymax>20037508.33999999985098839</ymax>
+      </extent>
+      <id>Wikimedia_labelled_layer20180325013316306</id>
+      <datasource>&lt;GDAL_WMS>
+  &lt;Service name="TMS">
+    &lt;ServerUrl>https://maps.wikimedia.org/osm-intl/${z}/${x}/${y}.png&lt;/ServerUrl>
+  &lt;/Service>
+  &lt;DataWindow>
+    &lt;UpperLeftX>-20037508.34&lt;/UpperLeftX>
+    &lt;UpperLeftY>20037508.34&lt;/UpperLeftY>
+    &lt;LowerRightX>20037508.34&lt;/LowerRightX>
+    &lt;LowerRightY>-20037508.34&lt;/LowerRightY>
+    &lt;TileLevel>18&lt;/TileLevel>
+    &lt;TileCountX>1&lt;/TileCountX>
+    &lt;TileCountY>1&lt;/TileCountY>
+    &lt;YOrigin>top&lt;/YOrigin>
+  &lt;/DataWindow>
+  &lt;Projection>EPSG:3857&lt;/Projection>
+  &lt;BlockSizeX>256&lt;/BlockSizeX>
+  &lt;BlockSizeY>256&lt;/BlockSizeY>
+  &lt;BandsCount>3&lt;/BandsCount>
+  &lt;Cache />
+&lt;/GDAL_WMS>
+</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Wikimedia labelled layer</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
+          <srsid>3857</srsid>
+          <srid>3857</srid>
+          <authid>EPSG:3857</authid>
+          <description>WGS 84 / Pseudo Mercator</description>
+          <projectionacronym>merc</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+        <property key="ol_layer_type" value="Wikimedia labelled layer"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+        <noDataList bandNo="2" useSrcNoData="0"/>
+        <noDataList bandNo="3" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" blueBand="3" greenBand="2" type="multibandcolor" redBand="1">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <extent>
         <xmin>-19942590.66580000147223473</xmin>
@@ -9196,7 +9622,7 @@ def my_form_open(dialog, layer, feature):
       </customproperties>
       <blendMode>6</blendMode>
       <featureBlendMode>6</featureBlendMode>
-      <layerTransparency>0</layerTransparency>
+      <layerTransparency>20</layerTransparency>
       <displayfield>NAME</displayfield>
       <label>0</label>
       <labelattributes>
