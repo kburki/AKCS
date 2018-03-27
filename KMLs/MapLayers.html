@@ -1,13 +1,24 @@
 <!DOCTYPE html>
 <html>
   <head>
+	  
+	  <script src="https://pym.nprapps.org/pym.v1.min.js"></script>
+<script>
+	var pymChild = new pym.Child();
+	</script>
+
+	  
   <style>
-    #map-canvas { width:500px; height:500px; }
+	  body {margin:0}
+    #container { height:650px; padding-bottom: 60%; }
+	  #map-canvas {height: 100%; width: 100%}
     .layer-wizard-search-label { font-family: sans-serif };
   </style>
-  <script type="text/javascript"
-    src="http://maps.google.com/maps/api/js?sensor=false">
+	  
+<script type="text/javascript"
+    src="http://maps.google.com/maps/api/js?key=AIzaSyBHrV-IrbRt7xYM0A32OtIXvRRztb0bK3Y&sensor=false"> //This is KTOO's key
   </script>
+	  
   <script type="text/javascript">
     var map;
     var layer_0;
@@ -17,8 +28,8 @@
     var layer_4;
     function initialize() {
       map = new google.maps.Map(document.getElementById('map-canvas'), {
-        center: new google.maps.LatLng(63.50008901142285, -151.962890625),
-        zoom: 4,
+        center: new google.maps.LatLng(63.50008901142285, -151.962890625),// centering slightly ower helps fit more of ak on the page at one time
+        zoom: 3.9,// zooming 3.9 fits more of AK on the page at one time.
         mapTypeId: google.maps.MapTypeId.TERRAIN
       });
       layer_0 = new google.maps.FusionTablesLayer({
@@ -71,6 +82,8 @@
   </script>
   </head>
   <body>
+	  <div id="container">
     <div id="map-canvas"></div>
+		  </div>
   </body>
 </html>
