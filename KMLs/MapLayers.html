@@ -12,8 +12,8 @@
     var map;
     var layer_0;
     var layer_1;
-    var layer_3;
     var layer_2;
+    var layer_3;
     var layer_4;
     function initialize() {
       map = new google.maps.Map(document.getElementById('map-canvas'), {
@@ -23,7 +23,7 @@
       });
       layer_0 = new google.maps.FusionTablesLayer({
         query: {
-          select: "col9",
+          select: "geometry",
           from: "1nrZ0_dZ5VGlsOYjKSLIOOMLw-m2qWIPI32qOwCy8"
         },
         map: map,
@@ -32,17 +32,8 @@
       });
       layer_1 = new google.maps.FusionTablesLayer({
         query: {
-          select: "col13",
+          select: "geometry",
           from: "1KJhMlSmhKwZS9EHQ3ruMBK49uDBhDRWrxr8fpfxg"
-        },
-        map: map,
-        styleId: 2,
-        templateId: 2
-      });
-      layer_3 = new google.maps.FusionTablesLayer({
-        query: {
-          select: "col20",
-          from: "1tNpCbnkpsSuXKaa5D5MKs9JsN9sC6Cygx-mhVJDv"
         },
         map: map,
         styleId: 2,
@@ -50,8 +41,17 @@
       });
       layer_2 = new google.maps.FusionTablesLayer({
         query: {
-          select: "col18",
+          select: "geometry",
           from: "1kc7BwHfqvQ8-lQyRKTqCBbG2i_XSR4gp_Lt5HTIh"
+        },
+        map: map,
+        styleId: 2,
+        templateId: 2
+      });
+      layer_3 = new google.maps.FusionTablesLayer({
+        query: {
+          select: "geometry",
+          from: "1tNpCbnkpsSuXKaa5D5MKs9JsN9sC6Cygx-mhVJDv"
         },
         map: map,
         styleId: 2,
@@ -59,7 +59,7 @@
       });
       layer_4 = new google.maps.FusionTablesLayer({
         query: {
-          select: "col20",
+          select: "geometry",
           from: "1WQGZO4EuiArNPPsKqEf8hVyv2hNiHKg_0Yy_bX19"
         },
         map: map,
