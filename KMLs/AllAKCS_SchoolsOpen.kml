@@ -1,0 +1,1416 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="AllAKCS_SchoolsOpen" id="AllAKCS_SchoolsOpen">
+	<SimpleField name="Hazard_ID" type="float"></SimpleField>
+	<SimpleField name="CS_or_LUST" type="string"></SimpleField>
+	<SimpleField name="Site_Name" type="string"></SimpleField>
+	<SimpleField name="Address" type="string"></SimpleField>
+	<SimpleField name="City" type="string"></SimpleField>
+	<SimpleField name="Borough" type="string"></SimpleField>
+	<SimpleField name="State" type="string"></SimpleField>
+	<SimpleField name="Zip_Code" type="float"></SimpleField>
+	<SimpleField name="Status" type="string"></SimpleField>
+	<SimpleField name="Landowner" type="string"></SimpleField>
+	<SimpleField name="Site_Type" type="string"></SimpleField>
+</Schema>
+<Folder><name>AllAKCS_SchoolsOpen</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">23</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Huslia Huntington School ASTs</SimpleData>
+		<SimpleData name="Address">Shore Lyin Drive</SimpleData>
+		<SimpleData name="City">Huslia</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99746</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.388669,65.701956</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">99</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Rampart School</SimpleData>
+		<SimpleData name="Address">Tracts 2A/2B of USS3677</SimpleData>
+		<SimpleData name="City">Rampart</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99767</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">State of Alaska - ADOTPF Maintenance &amp; Operations</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-150.16999,65.50499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">161</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Minto School</SimpleData>
+		<SimpleData name="Address">Laker One St</SimpleData>
+		<SimpleData name="City">Minto</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99758</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.348142,65.152157</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">289</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Kaltag School Oil Seep</SimpleData>
+		<SimpleData name="Address">Near Kaltag School</SimpleData>
+		<SimpleData name="City">Kaltag</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99748</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Alaska Dept. of Natural Res. - Land</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.723811,64.324662</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">408</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Mount Edgecumbe High School</SimpleData>
+		<SimpleData name="Address">1330 Seward Avenue</SimpleData>
+		<SimpleData name="City">Sitka</SimpleData>
+		<SimpleData name="Borough">Sitka</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99835</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Alaska Dept. of Education &amp; E. Dev.</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-135.352951,57.050932</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">454</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">UA Kenai Fire Training Site (MAPTS)</SimpleData>
+		<SimpleData name="Address">Mi. 3.2 Kalifornsky Beach</SimpleData>
+		<SimpleData name="City">Soldotna</SimpleData>
+		<SimpleData name="Borough">Kenai Peninsula</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99669</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">University of Alaska - Anchorage</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-151.137874,60.475797</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">541</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Galena High School</SimpleData>
+		<SimpleData name="Address">299 Antoski Avenue</SimpleData>
+		<SimpleData name="City">Galena</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99741</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.879,64.74646</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">1037</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Lime Village School</SimpleData>
+		<SimpleData name="Address">Lime Village</SimpleData>
+		<SimpleData name="City">Stony River</SimpleData>
+		<SimpleData name="Borough">Bethel</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99557</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Lime Village Traditional Council</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.436844,61.355425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">1392</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Barrow UIC Block 19</SimpleData>
+		<SimpleData name="Address">1250 Agvik Street</SimpleData>
+		<SimpleData name="City">Barrow</SimpleData>
+		<SimpleData name="Borough">North Slope</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99723</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Ukpeagvik Inpupiat Corporation</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.785734,71.2927</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">1422</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Former School Tank Farm Gravel Pad - Selawik</SimpleData>
+		<SimpleData name="Address">~600-800' West of River</SimpleData>
+		<SimpleData name="City">Selawik</SimpleData>
+		<SimpleData name="Borough">Northwest Arctic</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99770</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">NANA Regional Corporation</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-160.012661,66.604442</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">1562</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Chignik Bay School</SimpleData>
+		<SimpleData name="Address">#1 School Road</SimpleData>
+		<SimpleData name="City">Chignik</SimpleData>
+		<SimpleData name="Borough">Lake and Peninsula</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99564</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Unknown (This &quot;Unknown&quot; Affiliate Is Linked to Multiple Sites. Do Not Modify - Instead Click Remove, Then Select or Enter Another Affiliate)</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.405703,56.292674</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">1592</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Koyukuk Elementary School</SimpleData>
+		<SimpleData name="Address">Koyukuk</SimpleData>
+		<SimpleData name="City">Koyukuk</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99754</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.704205,64.881543</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">1597</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">NSB Wainwright Alak School Former Tank Farm</SimpleData>
+		<SimpleData name="Address">School Street</SimpleData>
+		<SimpleData name="City">Wainwright</SimpleData>
+		<SimpleData name="Borough">North Slope</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99782</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">North Slope Borough - Anch.</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-160.0365,70.6355</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">1599</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Arctic Village School</SimpleData>
+		<SimpleData name="Address">East Fork Chandalar River</SimpleData>
+		<SimpleData name="City">Arctic Village</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99722</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Native Village of Venetie Tribal Government</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-145.533902,68.128649</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">1605</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Circle School - Teacher's Housing</SimpleData>
+		<SimpleData name="Address">Old School Location</SimpleData>
+		<SimpleData name="City">Circle</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99733</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Yukon Flats School District</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-144.063721,65.825282</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">1629</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">NSB Point Lay Kali School Site</SimpleData>
+		<SimpleData name="Address">1029 Qasiglalik Street</SimpleData>
+		<SimpleData name="City">Point Lay</SimpleData>
+		<SimpleData name="Borough">North Slope</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99759</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">North Slope Borough School Dist.</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-163.008,69.742402</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">1892</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Mountain Village Elementary School</SimpleData>
+		<SimpleData name="Address">High School Road</SimpleData>
+		<SimpleData name="City">Mountain Village</SimpleData>
+		<SimpleData name="Borough">Wade Hampton</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99632</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Lower Yukon School District</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-163.728205,62.089334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">2197</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Manokotak School</SimpleData>
+		<SimpleData name="Address">Salmon Street</SimpleData>
+		<SimpleData name="City">Manokotak</SimpleData>
+		<SimpleData name="Borough">Dillingham</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99628</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Southwest Region School District</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-159.058445,58.980258</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">2312</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Allakaket School</SimpleData>
+		<SimpleData name="Address">1 Main Street</SimpleData>
+		<SimpleData name="City">Allakaket</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99720</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-152.6446,66.5635</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">2645</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Hughes School &amp; Community Tank Farm</SimpleData>
+		<SimpleData name="Address">110 Front Street</SimpleData>
+		<SimpleData name="City">Hughes</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99745</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">ADNR</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-154.258,66.046</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">2817</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Sleetmute School Spill</SimpleData>
+		<SimpleData name="Address">29 Sleetmute</SimpleData>
+		<SimpleData name="City">Sleetmute</SimpleData>
+		<SimpleData name="Borough">Bethel</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99668</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.169722,61.7025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">3102</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">White Mountain BIA School - Drum Storage Area</SimpleData>
+		<SimpleData name="Address">White Mountain Airport</SimpleData>
+		<SimpleData name="City">White Mountain</SimpleData>
+		<SimpleData name="Borough">Nome</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99784</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">White Mountain Native Corporation</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-163.409696,64.683169</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">3355</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Emmonak School Tank Farm</SimpleData>
+		<SimpleData name="Address">Delta St. near Kwiguk St.</SimpleData>
+		<SimpleData name="City">Emmonak</SimpleData>
+		<SimpleData name="Borough">Wade Hampton</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99581</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-164.5305,62.77725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">3367</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Akiak Elementary School Former Tank Farm</SimpleData>
+		<SimpleData name="Address">W Bank of Kuskokwim River</SimpleData>
+		<SimpleData name="City">Akiak</SimpleData>
+		<SimpleData name="Borough">Bethel</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99552</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Village Council- Akiak Native Community</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-161.21725,60.910444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">3368</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Akiak High School Former Tank Farm</SimpleData>
+		<SimpleData name="Address">W Bank of Kuskokwim River</SimpleData>
+		<SimpleData name="City">Akiak</SimpleData>
+		<SimpleData name="Borough">Bethel</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99552</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">City of Akiak</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-161.218694,60.909667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">3371</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Grayling Iditarod School former TF</SimpleData>
+		<SimpleData name="Address">3rd and &quot;D&quot; Streets</SimpleData>
+		<SimpleData name="City">Grayling</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99590</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Iditarod Area School District</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-160.063066,62.905403</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">3376</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Grayling BIA School Tank Farm</SimpleData>
+		<SimpleData name="Address">1st and &quot;C&quot; Streets</SimpleData>
+		<SimpleData name="City">Grayling</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99590</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Iditarod Area School District</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-160.064104,62.905239</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">3782</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Chefornak Former BIA School Tanks</SimpleData>
+		<SimpleData name="Address">South Bank of Kinia River</SimpleData>
+		<SimpleData name="City">Chefornak</SimpleData>
+		<SimpleData name="Borough">Bethel</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99561</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Unknown (This &quot;Unknown&quot; Affiliate Is Linked to Multiple Sites. Do Not Modify - Instead Click Remove, Then Select or Enter Another Affiliate)</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-164.270584,60.159392</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">3944</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Beaver School Tank Farm</SimpleData>
+		<SimpleData name="Address">N. Bank of Yukon River</SimpleData>
+		<SimpleData name="City">Beaver</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99724</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">U.S. Department of Interior, Fish and Wildlife Service</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-147.396634,66.359685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">3948</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Andrew K. Demoski School - Nulato</SimpleData>
+		<SimpleData name="Address">NW Bank of Yukon River, Nulato</SimpleData>
+		<SimpleData name="City">Nulato</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99765</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Gana-A' Yoo, Limited</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.108952,64.718363</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">4014</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Kongiganak Qemirtalek Coast Corporation Tank Farm</SimpleData>
+		<SimpleData name="Address">~1500' NW of School</SimpleData>
+		<SimpleData name="City">Kongiganak</SimpleData>
+		<SimpleData name="Borough">Bethel</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99559</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Qemirtalek Coast Corporation (QCC)</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-162.886511,59.963365</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">4021</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Arctic Village School Standby Gen.</SimpleData>
+		<SimpleData name="Address">NE Section of Town</SimpleData>
+		<SimpleData name="City">Arctic Village</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99722</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Native Village of Venetie Tribal Government</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-145.534552,68.128621</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">4073</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Whittier School Tanks</SimpleData>
+		<SimpleData name="Address">Portage Street or</SimpleData>
+		<SimpleData name="City">Whittier</SimpleData>
+		<SimpleData name="Borough">Valdez Cordova</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99693</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Unknown (This &quot;Unknown&quot; Affiliate Is Linked to Multiple Sites. Do Not Modify - Instead Click Remove, Then Select or Enter Another Affiliate)</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-148.686111,60.771944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">4100</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Circle School Fuel Release</SimpleData>
+		<SimpleData name="Address">Adjacent to Old Boiler Rm</SimpleData>
+		<SimpleData name="City">Circle</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99733</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Yukon Flats School District</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-144.069167,65.8275</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">4131</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">FNSB - Nordale Elementary School HOT</SimpleData>
+		<SimpleData name="Address">20 Eureka Avenue</SimpleData>
+		<SimpleData name="City">Fairbanks</SimpleData>
+		<SimpleData name="Borough">Fairbanks North Star</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99701</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Fairbanks North Star Borough</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-147.693611,64.846389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">4247</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Fort Yukon School</SimpleData>
+		<SimpleData name="Address">East Second Avenue and Hill Street</SimpleData>
+		<SimpleData name="City">Fort Yukon</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99740</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Yukon Flats School District</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-145.25322,66.564269</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">4292</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Nome Elementary School HOT</SimpleData>
+		<SimpleData name="Address">1057 5th Avenue</SimpleData>
+		<SimpleData name="City">Nome</SimpleData>
+		<SimpleData name="Borough">Nome</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99762</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">City of Nome</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-165.38389,64.498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">4306</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">NSB Wainwright Old BIA Tank Farm and Day Tank</SimpleData>
+		<SimpleData name="Address">SE corner of Kuk Rd &amp; Ahloaksageak Rd</SimpleData>
+		<SimpleData name="City">Wainwright</SimpleData>
+		<SimpleData name="Borough">North Slope</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99782</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">North Slope Borough - Anch.</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-160.030861,70.640194</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">4338</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Former BIA School (Kwigillingok)</SimpleData>
+		<SimpleData name="Address">Kwigillingok BIA Complex</SimpleData>
+		<SimpleData name="City">Kwigillingok</SimpleData>
+		<SimpleData name="Borough">Bethel</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99622</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Alaska Dept. of Education &amp; E. Dev.</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-163.137565,59.863842</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">4546</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Tuntutuliak Former BIA School Site</SimpleData>
+		<SimpleData name="Address">Tuntutuliaq Road</SimpleData>
+		<SimpleData name="City">Tuntutuliak</SimpleData>
+		<SimpleData name="Borough">Bethel</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99680</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Alaska Department of Education and Early Development</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-162.665889,60.343622</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">4587</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Togiak School</SimpleData>
+		<SimpleData name="Address">South of Second Avenue</SimpleData>
+		<SimpleData name="City">Togiak</SimpleData>
+		<SimpleData name="Borough">Dillingham</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99678</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">City of Togiak</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-160.377854,59.060219</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">4614</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Kiana High School Former Tank Farm</SimpleData>
+		<SimpleData name="Address">Casonoff Street</SimpleData>
+		<SimpleData name="City">Kiana</SimpleData>
+		<SimpleData name="Borough">Northwest Arctic</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99749</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-160.436946,66.972103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">4621</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Kiana Elementary School Former Tank Farm</SimpleData>
+		<SimpleData name="Address">Taylor Road</SimpleData>
+		<SimpleData name="City">Kiana</SimpleData>
+		<SimpleData name="Borough">Northwest Arctic</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99749</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-160.427951,66.972893</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">4642</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Tununak Former BIA School Tank Farm</SimpleData>
+		<SimpleData name="Address">SW of Former BIA School</SimpleData>
+		<SimpleData name="City">Tununak</SimpleData>
+		<SimpleData name="Borough">Bethel</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99681</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Alaska Dept. of Education &amp; E. Dev.</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-165.252604,60.585106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">4648</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Chalkyitsik School Bulk Fuel Storage</SimpleData>
+		<SimpleData name="Address">Salmon Avenue and Fishhook Drive</SimpleData>
+		<SimpleData name="City">Chalkyitsik</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99788</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-143.727886,66.650182</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">4687</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Hooper Bay School Fire</SimpleData>
+		<SimpleData name="Address">Eastern End of Airport Road</SimpleData>
+		<SimpleData name="City">Hooper Bay</SimpleData>
+		<SimpleData name="Borough">Wade Hampton</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99604</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Alaska Department of Fish and Game, Division of Commercial Fisheries</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-166.103889,61.531389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">25241</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Napaskiak Former BIA School Day Tanks</SimpleData>
+		<SimpleData name="Address">Northwest of Z. John Williams School</SimpleData>
+		<SimpleData name="City">Napaskiak</SimpleData>
+		<SimpleData name="Borough">Bethel</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99559</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Lower Kuskokwim School District</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-161.763034,60.707937</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">25275</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Lower Yukon School District Former Tank Farm, Kotlik</SimpleData>
+		<SimpleData name="Address">W of Former Elementary School; N of Former BIA School Playground</SimpleData>
+		<SimpleData name="City">Kotlik</SimpleData>
+		<SimpleData name="Borough">Wade Hampton</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99620</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Lower Yukon School District</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-163.55602,63.033025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">25349</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Old BIA Copper Center School</SimpleData>
+		<SimpleData name="Address">Old Richardson Highway</SimpleData>
+		<SimpleData name="City">Copper Center</SimpleData>
+		<SimpleData name="Borough">Valdez Cordova</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99573</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Alaska Department of Natural Resources</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-145.319573,61.972317</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">25360</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">NABSD Buckland School Tank Farm</SimpleData>
+		<SimpleData name="Address">Virginia Avenue</SimpleData>
+		<SimpleData name="City">Buckland</SimpleData>
+		<SimpleData name="Borough">Northwest Arctic</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99727</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Northwest Arctic Borough School District</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-161.124639,65.978378</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">25366</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">NSB Point Hope Old BIA Former Tank Farm</SimpleData>
+		<SimpleData name="Address">~300 Feet East of Fuel Station</SimpleData>
+		<SimpleData name="City">Point Hope</SimpleData>
+		<SimpleData name="Borough">North Slope</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99766</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Tikigaq Village Corporation</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-166.738368,68.347414</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">25405</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Ekwok School Fuel Storage Area and Pipeline</SimpleData>
+		<SimpleData name="Address">School Fuel Storage Area and Pipeline</SimpleData>
+		<SimpleData name="City">Ekwok</SimpleData>
+		<SimpleData name="Borough">Dillingham</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99580</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Southwest Region Schools</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.47692,59.34918</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">25407</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Anvik Former School Site</SimpleData>
+		<SimpleData name="Address">Old School Road</SimpleData>
+		<SimpleData name="City">Anvik</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99558</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">EPISCOPAL DIOCESE OF ALASKA</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-160.205943,62.654665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">25425</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">FNSB - University Park Elementary School</SimpleData>
+		<SimpleData name="Address">554 Loftus Road</SimpleData>
+		<SimpleData name="City">Fairbanks</SimpleData>
+		<SimpleData name="Borough">Fairbanks North Star</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99709</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">FNSB - Fairbanks North Star Borough</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-147.846002,64.84607</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">25427</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Newtok - Old BIA School</SimpleData>
+		<SimpleData name="Address">Old BIA School - Newtok</SimpleData>
+		<SimpleData name="City">Newtok</SimpleData>
+		<SimpleData name="Borough">Bethel</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99559</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Lower Kuskokwim School District</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-164.62999,60.93932</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">25446</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">New Stuyahok Old BIA School</SimpleData>
+		<SimpleData name="Address">400 Avec Road</SimpleData>
+		<SimpleData name="City">New Stuyahok</SimpleData>
+		<SimpleData name="Borough">Dillingham</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99636</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Southwest Region School District</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.311693,59.450756</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">25461</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">FNSB - Woodriver Elementary School</SimpleData>
+		<SimpleData name="Address">5000 Palo Verde Avenue</SimpleData>
+		<SimpleData name="City">Fairbanks</SimpleData>
+		<SimpleData name="Borough">Fairbanks North Star</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99709</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Fairbanks North Star Borough</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-147.872076,64.839591</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">25486</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">UAF Northwest Campus Parking</SimpleData>
+		<SimpleData name="Address">East Front Street, Between Moore Way and Campbell Way</SimpleData>
+		<SimpleData name="City">Nome</SimpleData>
+		<SimpleData name="Borough">Nome</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99762</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">University of Alaska - Fairbanks</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-165.39627,64.4962</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">25493</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Eek Old BIA School and Tanks</SimpleData>
+		<SimpleData name="Address">Old BIA School</SimpleData>
+		<SimpleData name="City">Eek</SimpleData>
+		<SimpleData name="Borough">Bethel</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99578</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">State of Alaska Department of Education</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-162.022,60.218</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">25502</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Kasigluk-Akiuk Old BIA School Tank Farm</SimpleData>
+		<SimpleData name="Address">Old BIA School Tank Farm</SimpleData>
+		<SimpleData name="City">Kasigluk</SimpleData>
+		<SimpleData name="Borough">Bethel</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99609</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Lower Kuskokwim School District</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-162.519,60.895</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">25511</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Larsen Bay Old School</SimpleData>
+		<SimpleData name="Address">Old School</SimpleData>
+		<SimpleData name="City">Larsen Bay</SimpleData>
+		<SimpleData name="Borough">Kodiak Island</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99624</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Larsen Bay Tribal Council</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-153.981476,57.538059</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">25535</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">FNSB - Weller Elementary School UST 1</SimpleData>
+		<SimpleData name="Address">635 Elementary Drive</SimpleData>
+		<SimpleData name="City">Fairbanks</SimpleData>
+		<SimpleData name="Borough">Fairbanks North Star</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99712</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">FNSB - Fairbanks North Star Borough</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-147.592692,64.887775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">25555</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Eek LKSD Tank Farm</SimpleData>
+		<SimpleData name="Address">Lower Kuskokwim School District School Tank Farm</SimpleData>
+		<SimpleData name="City">Eek</SimpleData>
+		<SimpleData name="Borough">Bethel</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99578</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Lower Kuskokwim School District</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-162.025,60.216</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">25659</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">UAF Arctic Health Building</SimpleData>
+		<SimpleData name="Address">901 North Koyukuk Drive</SimpleData>
+		<SimpleData name="City">Fairbanks</SimpleData>
+		<SimpleData name="Borough">Fairbanks North Star</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99775</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">UAF - Environmental Health, Safety &amp; Risk Management</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-147.848337,64.858117</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">25662</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">FNSB - Two Rivers Elementary School</SimpleData>
+		<SimpleData name="Address">400 Two Rivers Road</SimpleData>
+		<SimpleData name="City">Two Rivers</SimpleData>
+		<SimpleData name="Borough">Fairbanks North Star</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99716</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Fairbanks North Star Borough</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-147.038324,64.877704</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">25668</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">FNSB - Howard Luke Academy / Effie Kokrine Charter School</SimpleData>
+		<SimpleData name="Address">601 Loftus Road</SimpleData>
+		<SimpleData name="City">Fairbanks</SimpleData>
+		<SimpleData name="Borough">Fairbanks North Star</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99709</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Fairbanks North Star Borough</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-147.83994,64.84798</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">25669</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">FNSB - Tanana Middle School</SimpleData>
+		<SimpleData name="Address">600 Trainor Gate Road</SimpleData>
+		<SimpleData name="City">Fairbanks</SimpleData>
+		<SimpleData name="Borough">Fairbanks North Star</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99701</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Fairbanks North Star Borough</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-147.66763,64.84579</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">25670</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">FNSB - Pearl Creek Elementary School</SimpleData>
+		<SimpleData name="Address">700 Auburn Drive</SimpleData>
+		<SimpleData name="City">Fairbanks</SimpleData>
+		<SimpleData name="Borough">Fairbanks North Star</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99709</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Fairbanks North Star Borough</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-147.81519,64.89182</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">25671</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">FNSB - Joy Elementary School</SimpleData>
+		<SimpleData name="Address">24 Margaret Avenue</SimpleData>
+		<SimpleData name="City">Fairbanks</SimpleData>
+		<SimpleData name="Borough">Fairbanks North Star</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99701</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Fairbanks North Star Borough</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-147.72524,64.86166</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">25673</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">FNSB - Badger Road Elementary School UST #1</SimpleData>
+		<SimpleData name="Address">2301 Bradway Road</SimpleData>
+		<SimpleData name="City">North Pole</SimpleData>
+		<SimpleData name="Borough">Fairbanks North Star</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99705</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Fairbanks North Star Borough</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-147.41379,64.804988</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">25674</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">FNSB - Salcha Elementary School</SimpleData>
+		<SimpleData name="Address">8530 Richardson Highway</SimpleData>
+		<SimpleData name="City">Salcha</SimpleData>
+		<SimpleData name="Borough">Fairbanks North Star</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99714</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Fairbanks North Star Borough</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-146.97742,64.48228</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">25675</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">FNSB - North Pole High School</SimpleData>
+		<SimpleData name="Address">601 NPHS Boulevard</SimpleData>
+		<SimpleData name="City">North Pole</SimpleData>
+		<SimpleData name="Borough">Fairbanks North Star</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99705</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Fairbanks North Star Borough</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-147.37071,64.74677</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">25682</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">FNSB - Wescott Pool UST #2</SimpleData>
+		<SimpleData name="Address">300 East 8th Avenue</SimpleData>
+		<SimpleData name="City">North Pole</SimpleData>
+		<SimpleData name="Borough">Fairbanks North Star</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99705</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Fairbanks North Star Borough</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-147.343821,64.746497</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">25702</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">FNSB - North Pole Middle School UST #2</SimpleData>
+		<SimpleData name="Address">306 East 8th Avenue</SimpleData>
+		<SimpleData name="City">North Pole</SimpleData>
+		<SimpleData name="Borough">Fairbanks North Star</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99705</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Fairbanks North Star Borough</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-147.342838,64.746758</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">25739</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Huslia Huntington School Elementary Bldg Day Tank</SimpleData>
+		<SimpleData name="Address">Huslia School Boulevard</SimpleData>
+		<SimpleData name="City">Huslia</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99746</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">City of Huslia</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.390286,65.702119</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">25768</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">City of Ouzinkie Former BIA Tank Farm</SimpleData>
+		<SimpleData name="Address">Fourth Street, Behind City Offices</SimpleData>
+		<SimpleData name="City">Ouzinkie</SimpleData>
+		<SimpleData name="Borough">Kodiak Island</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99644</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-152.504139,57.923703</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">26101</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Kaltag School Former BIA Tank Farm</SimpleData>
+		<SimpleData name="Address">Near Kaltag School</SimpleData>
+		<SimpleData name="City">Kaltag</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99748</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Alaska Dept. of Natural Res. - Land</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.722636,64.324497</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">26137</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">ADNR Former Head Start Bldg - Ruby</SimpleData>
+		<SimpleData name="Address">Good Time Road</SimpleData>
+		<SimpleData name="City">Ruby</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99768</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">ADNR - Fairbanks</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.489024,64.739232</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">26202</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">Karluk School USTs 1-4</SimpleData>
+		<SimpleData name="Address">Main Street</SimpleData>
+		<SimpleData name="City">Karluk</SimpleData>
+		<SimpleData name="Borough">Kodiak Island</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99608</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Kodiak Island Borough</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-154.436551,57.562592</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">26252</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Kake Former Elementary School</SimpleData>
+		<SimpleData name="Address">SE of Church Street &amp; Fourth Avenue Intersection</SimpleData>
+		<SimpleData name="City">Kake</SimpleData>
+		<SimpleData name="Borough">Wrangell Petersburg</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99830</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">City of Kake</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-133.949487,56.976518</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">26253</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">FNSB - Salcha Elementary School Music and Ski Bldgs HOTs</SimpleData>
+		<SimpleData name="Address">8530 Richardson Highway</SimpleData>
+		<SimpleData name="City">Salcha</SimpleData>
+		<SimpleData name="Borough">Fairbanks North Star</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99714</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Fairbanks North Star Borough</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-146.977198,64.48319</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">26268</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Scammon Bay Former BIA School</SimpleData>
+		<SimpleData name="Address">Hillside Street, South of Main Street Intersection</SimpleData>
+		<SimpleData name="City">Scammon Bay</SimpleData>
+		<SimpleData name="Borough">Wade Hampton</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99662</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Lower Yukon School District</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-165.583036,61.841302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">26396</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Aleknagik School Day Tank</SimpleData>
+		<SimpleData name="Address">574 Kenny Wren Road</SimpleData>
+		<SimpleData name="City">Aleknagik</SimpleData>
+		<SimpleData name="Borough">Dillingham</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99555</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Southwest Region School District</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.626296,59.281175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">26405</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Pitka's Point School</SimpleData>
+		<SimpleData name="Address">Near Intersection of St. Marys - Pitka's Point Road and Safewater Access Road; ~4 Miles SW of St. Marys</SimpleData>
+		<SimpleData name="City">Saint Marys</SimpleData>
+		<SimpleData name="Borough">Wade Hampton</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99658</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Alaska Dept. of Comm., Community and Econ. Develop</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-163.286579,62.031868</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">26458</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Chiniak School 500-Gallon HOT</SimpleData>
+		<SimpleData name="Address">42551 Chiniak Highway</SimpleData>
+		<SimpleData name="City">Chiniak</SimpleData>
+		<SimpleData name="Borough">Kodiak Island</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99615</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Kodiak Island Borough</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-152.234549,57.613643</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">26700</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Nikolski School Vertical ASTs</SimpleData>
+		<SimpleData name="Address">Intersection of Main and B Streets</SimpleData>
+		<SimpleData name="City">Nikolski</SimpleData>
+		<SimpleData name="Borough">Aleutian Islands</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99638</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Aleutians Region School District</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-168.860188,52.940075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">26714</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Birch Creek Old School Bldg / Community Center</SimpleData>
+		<SimpleData name="Address">Center Street S of Aspen Avenue Intersection, Birch Creek Village; ~26 Miles SW of Fort Yukon</SimpleData>
+		<SimpleData name="City">Central</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99730</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Birch Creek Tribal Council</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-145.81821,66.26286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsOpen">
+		<SimpleData name="Hazard_ID">26720</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">ASD Gruening Middle School UST 2</SimpleData>
+		<SimpleData name="Address">9601 Lee Street</SimpleData>
+		<SimpleData name="City">Eagle River</SimpleData>
+		<SimpleData name="Borough">Anchorage</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99577</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Landowner">Eklutna, Inc.</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.549079,61.306828</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,1512 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="AllAKCS_SchoolsComplete" id="AllAKCS_SchoolsComplete">
+	<SimpleField name="Hazard_ID" type="float"></SimpleField>
+	<SimpleField name="File_ID" type="string"></SimpleField>
+	<SimpleField name="Archived_R" type="string"></SimpleField>
+	<SimpleField name="LUST_Event" type="float"></SimpleField>
+	<SimpleField name="CS_or_LUST" type="string"></SimpleField>
+	<SimpleField name="Site_Name" type="string"></SimpleField>
+	<SimpleField name="Address" type="string"></SimpleField>
+	<SimpleField name="City" type="string"></SimpleField>
+	<SimpleField name="Borough" type="string"></SimpleField>
+	<SimpleField name="State" type="string"></SimpleField>
+	<SimpleField name="Zip_Code" type="float"></SimpleField>
+	<SimpleField name="Status" type="string"></SimpleField>
+	<SimpleField name="Staff" type="string"></SimpleField>
+	<SimpleField name="Landowner" type="string"></SimpleField>
+	<SimpleField name="Site_Type" type="string"></SimpleField>
+	<SimpleField name="Latitude" type="float"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+	<SimpleField name="Horizontal" type="string"></SimpleField>
+	<SimpleField name="orig_ogc_fid" type="int"></SimpleField>
+</Schema>
+<Folder><name>AllAKCS_SchoolsComplete</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">579</SimpleData>
+		<SimpleData name="File_ID">170.38.032</SimpleData>
+		<SimpleData name="Archived_R">1.98833E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Walter Northway School</SimpleData>
+		<SimpleData name="Address">Northway Road</SimpleData>
+		<SimpleData name="City">Northway</SimpleData>
+		<SimpleData name="Borough">Southeast Fairbanks</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99764</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">IC Unit</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">63.336660000000002</SimpleData>
+		<SimpleData name="Longitude">-142.985500000000002</SimpleData>
+		<SimpleData name="orig_ogc_fid">5090</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-142.9855,63.33666</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">651</SimpleData>
+		<SimpleData name="File_ID">2314.38.019</SimpleData>
+		<SimpleData name="Archived_R">1.98923E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Paul Banks Elementary School</SimpleData>
+		<SimpleData name="Address">1340 East End Road</SimpleData>
+		<SimpleData name="City">Homer</SimpleData>
+		<SimpleData name="Borough">Kenai Peninsula</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99603</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">IC Unit</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">59.652777999999998</SimpleData>
+		<SimpleData name="Longitude">-151.506111000000004</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">5091</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-151.506111,59.652778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">948</SimpleData>
+		<SimpleData name="File_ID">2245.26.037</SimpleData>
+		<SimpleData name="Archived_R">1.99022E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Glacier View School</SimpleData>
+		<SimpleData name="Address">Mile 104 Glenn Highway</SimpleData>
+		<SimpleData name="City">Sutton</SimpleData>
+		<SimpleData name="Borough">Matanuska Susitna</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99674</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">Matanuska-Susitna Borough</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.791409999999999</SimpleData>
+		<SimpleData name="Longitude">-147.688130000000001</SimpleData>
+		<SimpleData name="orig_ogc_fid">5092</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-147.68813,61.79141</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">1561</SimpleData>
+		<SimpleData name="File_ID">2441.38.001</SimpleData>
+		<SimpleData name="Archived_R">1.99225E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Quinhagak Tank Farm - LKSD</SimpleData>
+		<SimpleData name="Address">Quinhagak</SimpleData>
+		<SimpleData name="City">Quinhagak</SimpleData>
+		<SimpleData name="Borough">Bethel</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99655</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">59.752057000000001</SimpleData>
+		<SimpleData name="Longitude">-161.896250000000009</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">5093</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-161.89625,59.752057</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">1921</SimpleData>
+		<SimpleData name="File_ID">350.38.007</SimpleData>
+		<SimpleData name="Archived_R">1.99331E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Kaktovik Kaveolook School</SimpleData>
+		<SimpleData name="Address">2001 Barter Avenue</SimpleData>
+		<SimpleData name="City">Kaktovik</SimpleData>
+		<SimpleData name="Borough">North Slope</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99747</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">70.127650000000003</SimpleData>
+		<SimpleData name="Longitude">-143.615499999999997</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5094</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-143.6155,70.12765</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">2464</SimpleData>
+		<SimpleData name="File_ID">2540.38.008</SimpleData>
+		<SimpleData name="Archived_R">1.99525E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">UAF Bristol Bay Campus Spill</SimpleData>
+		<SimpleData name="Address">Seward Street; Northwest of the D Street Intersection</SimpleData>
+		<SimpleData name="City">Dillingham</SimpleData>
+		<SimpleData name="Borough">Dillingham</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99576</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">University of Alaska - Fairbanks</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">59.040824000000001</SimpleData>
+		<SimpleData name="Longitude">-158.464606000000003</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">5095</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.464606,59.040824</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">2573</SimpleData>
+		<SimpleData name="File_ID">2100.38.403</SimpleData>
+		<SimpleData name="Archived_R">1.99621E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">ASD West High School UST</SimpleData>
+		<SimpleData name="Address">1700 Hillcrest Drive</SimpleData>
+		<SimpleData name="City">Anchorage</SimpleData>
+		<SimpleData name="Borough">Anchorage</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99517</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">Schools - Municipality of Anchorage</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.200555999999999</SimpleData>
+		<SimpleData name="Longitude">-149.917777999999998</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">5096</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.917778,61.200556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">3007</SimpleData>
+		<SimpleData name="File_ID">2100.38.062</SimpleData>
+		<SimpleData name="Archived_R">1.99821E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">APU Gould Hall</SimpleData>
+		<SimpleData name="Address">4200 University Drive</SimpleData>
+		<SimpleData name="City">Anchorage</SimpleData>
+		<SimpleData name="Borough">Anchorage</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99508</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">IC Unit</SimpleData>
+		<SimpleData name="Landowner">Alaska Pacific University</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.188180000000003</SimpleData>
+		<SimpleData name="Longitude">-149.803663999999998</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">5097</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.803664,61.18818</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">3120</SimpleData>
+		<SimpleData name="File_ID">1513.38.056</SimpleData>
+		<SimpleData name="Archived_R">1.99911E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Harborview School UST</SimpleData>
+		<SimpleData name="Address">1255 Glacier Avenue</SimpleData>
+		<SimpleData name="City">Juneau</SimpleData>
+		<SimpleData name="Borough">Juneau</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99801</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">58.302976999999998</SimpleData>
+		<SimpleData name="Longitude">-134.426627999999994</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5098</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-134.426628,58.302977</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">3127</SimpleData>
+		<SimpleData name="File_ID">1525.38.012</SimpleData>
+		<SimpleData name="Archived_R">1.99912E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Sitka High School Heating Oil Tank</SimpleData>
+		<SimpleData name="Address">Lake Street and Verstovia</SimpleData>
+		<SimpleData name="City">Sitka</SimpleData>
+		<SimpleData name="Borough">Sitka</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99835</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">57.062888999999998</SimpleData>
+		<SimpleData name="Longitude">-135.339167000000003</SimpleData>
+		<SimpleData name="orig_ogc_fid">5099</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-135.339167,57.062889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">3332</SimpleData>
+		<SimpleData name="File_ID">2327.38.003</SimpleData>
+		<SimpleData name="Archived_R">2.00023E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Port Graham Elementary / High School</SimpleData>
+		<SimpleData name="Address">63693 Graham Road</SimpleData>
+		<SimpleData name="City">Port Graham</SimpleData>
+		<SimpleData name="Borough">Kenai Peninsula</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99603</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">Kenai Peninsula Borough</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">59.351388999999998</SimpleData>
+		<SimpleData name="Longitude">-151.832222000000002</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">5100</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-151.832222,59.351389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">3366</SimpleData>
+		<SimpleData name="File_ID">2405.38.007</SimpleData>
+		<SimpleData name="Archived_R">2.00025E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Anvik Iditarod Area School Former Tank Farm</SimpleData>
+		<SimpleData name="Address">~600' West of Runway</SimpleData>
+		<SimpleData name="City">Anvik</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99558</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">Deloy Ges, Inc (formerly known as Ingalik Inc.)</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">62.648850000000003</SimpleData>
+		<SimpleData name="Longitude">-160.193000000000012</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5101</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-160.193,62.64885</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">3765</SimpleData>
+		<SimpleData name="File_ID">2215.38.006</SimpleData>
+		<SimpleData name="Archived_R">2.00124E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">City of Cordova High School</SimpleData>
+		<SimpleData name="Address">100 Fisherman Avenue</SimpleData>
+		<SimpleData name="City">Cordova</SimpleData>
+		<SimpleData name="Borough">Valdez Cordova</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99574</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">IC Unit</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">60.539749999999998</SimpleData>
+		<SimpleData name="Longitude">-145.761138999999986</SimpleData>
+		<SimpleData name="orig_ogc_fid">5102</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-145.761139,60.53975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">3807</SimpleData>
+		<SimpleData name="File_ID">870.38.001</SimpleData>
+		<SimpleData name="Archived_R">2.00131E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">City of Ruby Teen Center Spill</SimpleData>
+		<SimpleData name="Address">Bobby Kennedy Sr. Drive and Short Street</SimpleData>
+		<SimpleData name="City">Ruby</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99768</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">IC Unit</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">64.736861000000005</SimpleData>
+		<SimpleData name="Longitude">-155.482028000000014</SimpleData>
+		<SimpleData name="Horizontal">Unknown</SimpleData>
+		<SimpleData name="orig_ogc_fid">5103</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.482028,64.736861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">3828</SimpleData>
+		<SimpleData name="File_ID">600.38.001</SimpleData>
+		<SimpleData name="Archived_R">2.00132E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Elim School</SimpleData>
+		<SimpleData name="Address">Aniquiin School</SimpleData>
+		<SimpleData name="City">Elim</SimpleData>
+		<SimpleData name="Borough">Nome</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99739</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">IC Unit</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">64.616069999999993</SimpleData>
+		<SimpleData name="Longitude">-162.263669999999991</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">5104</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-162.26367,64.61607</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">3907</SimpleData>
+		<SimpleData name="File_ID">2106.38.009</SimpleData>
+		<SimpleData name="Archived_R">2.00221E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">ASD Chugiak High School</SimpleData>
+		<SimpleData name="Address">16525 South Birchwood Lp.</SimpleData>
+		<SimpleData name="City">Chugiak</SimpleData>
+		<SimpleData name="Borough">Anchorage</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99567</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.370556000000001</SimpleData>
+		<SimpleData name="Longitude">-149.532221999999990</SimpleData>
+		<SimpleData name="orig_ogc_fid">5105</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.532222,61.370556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">3985</SimpleData>
+		<SimpleData name="File_ID">1500.38.009</SimpleData>
+		<SimpleData name="Archived_R">2.00311E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Angoon Elementary School UST</SimpleData>
+		<SimpleData name="Address">Shoreline Drive</SimpleData>
+		<SimpleData name="City">Angoon</SimpleData>
+		<SimpleData name="Borough">Skagway Yakutat Ango</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99820</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">57.503056000000001</SimpleData>
+		<SimpleData name="Longitude">-134.585833000000008</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">5106</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-134.585833,57.503056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">4019</SimpleData>
+		<SimpleData name="File_ID">2428.38.001</SimpleData>
+		<SimpleData name="Archived_R">2.00325E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Marshall School Water Sewer Upgrade</SimpleData>
+		<SimpleData name="Address">3rd Street and Airport Rd</SimpleData>
+		<SimpleData name="City">Marshall</SimpleData>
+		<SimpleData name="Borough">Wade Hampton</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99585</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">Alaska Dept. of Natural Res. - Land</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.878999999999998</SimpleData>
+		<SimpleData name="Longitude">-162.086999999999989</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5107</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-162.087,61.879</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">4045</SimpleData>
+		<SimpleData name="Archived_R">2.00332E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Bering Strait School Dist. Office</SimpleData>
+		<SimpleData name="Address">Beach Road West</SimpleData>
+		<SimpleData name="City">Unalakleet</SimpleData>
+		<SimpleData name="Borough">Nome</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99684</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">63.877499999999998</SimpleData>
+		<SimpleData name="Longitude">-160.792499999999990</SimpleData>
+		<SimpleData name="orig_ogc_fid">5108</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-160.7925,63.8775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">4128</SimpleData>
+		<SimpleData name="File_ID">2537.38.002</SimpleData>
+		<SimpleData name="Archived_R">2.00025E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Ekuk Abandoned School Generator Building</SimpleData>
+		<SimpleData name="Address">West of Private Runway</SimpleData>
+		<SimpleData name="City">Clarks Point</SimpleData>
+		<SimpleData name="Borough">Dillingham</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99569</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">Alaska Dept. of Natural Res. - Land</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">58.809167000000002</SimpleData>
+		<SimpleData name="Longitude">-158.563055999999989</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">5109</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.563056,58.809167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">4248</SimpleData>
+		<SimpleData name="File_ID">102.38.140</SimpleData>
+		<SimpleData name="Archived_R">2.00531E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Former Denali Elementary School HOT</SimpleData>
+		<SimpleData name="Address">1042 Lathrop Street</SimpleData>
+		<SimpleData name="City">Fairbanks</SimpleData>
+		<SimpleData name="Borough">Fairbanks North Star</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99701</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">64.839699999999993</SimpleData>
+		<SimpleData name="Longitude">-147.749200000000002</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">5110</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-147.7492,64.8397</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">4356</SimpleData>
+		<SimpleData name="File_ID">2100.38.404</SimpleData>
+		<SimpleData name="Archived_R">1.99921E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">ASD Turnagain Elementary School</SimpleData>
+		<SimpleData name="Address">3500 West Northern Lights Boulevard</SimpleData>
+		<SimpleData name="City">Anchorage</SimpleData>
+		<SimpleData name="Borough">Anchorage</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99515</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">Schools - Municipality of Anchorage</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.194420999999998</SimpleData>
+		<SimpleData name="Longitude">-149.948679999999996</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">5111</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.94868,61.194421</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">4357</SimpleData>
+		<SimpleData name="File_ID">780.38.012</SimpleData>
+		<SimpleData name="Archived_R">2.00631E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Tanana School</SimpleData>
+		<SimpleData name="Address">1st Avenue</SimpleData>
+		<SimpleData name="City">Tanana</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99777</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">IC Unit</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">65.171199999999999</SimpleData>
+		<SimpleData name="Longitude">-152.088200000000001</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">5112</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-152.0882,65.1712</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">4635</SimpleData>
+		<SimpleData name="File_ID">2601.38.106</SimpleData>
+		<SimpleData name="Archived_R">2.00725E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Kodiak High School HOT</SimpleData>
+		<SimpleData name="Address">722 Upper Mill Bay Road</SimpleData>
+		<SimpleData name="City">Kodiak</SimpleData>
+		<SimpleData name="Borough">Kodiak Island</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99615</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">Kodiak Island Borough</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">57.793878999999997</SimpleData>
+		<SimpleData name="Longitude">-152.396850000000001</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5113</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-152.39685,57.793879</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">4641</SimpleData>
+		<SimpleData name="File_ID">2453.38.004</SimpleData>
+		<SimpleData name="Archived_R">2.00125E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Tununak Paul T Albert Memorial School Tank Farm</SimpleData>
+		<SimpleData name="Address">~ 125 Feet North of School</SimpleData>
+		<SimpleData name="City">Tununak</SimpleData>
+		<SimpleData name="Borough">Bethel</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99681</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">Alaska Dept. of Education &amp; E. Dev.</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">60.585393000000003</SimpleData>
+		<SimpleData name="Longitude">-165.249417999999991</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5114</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-165.249418,60.585393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">4646</SimpleData>
+		<SimpleData name="File_ID">2106.38.004</SimpleData>
+		<SimpleData name="Archived_R">1.99921E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">ASD Chugiak Elementary School</SimpleData>
+		<SimpleData name="Address">19932 Old Glenn Highway</SimpleData>
+		<SimpleData name="City">Chugiak</SimpleData>
+		<SimpleData name="Borough">Anchorage</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99567</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">IC Unit</SimpleData>
+		<SimpleData name="Landowner">Schools - Municipality of Anchorage</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.400748000000000</SimpleData>
+		<SimpleData name="Longitude">-149.464475999999991</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.464476,61.400748</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">4662</SimpleData>
+		<SimpleData name="File_ID">2100.38.406</SimpleData>
+		<SimpleData name="Archived_R">2.00021E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">ASD Scenic Park Elementary School</SimpleData>
+		<SimpleData name="Address">3933 Patterson Street</SimpleData>
+		<SimpleData name="City">Anchorage</SimpleData>
+		<SimpleData name="Borough">Anchorage</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99504</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">Municipality of Anchorage</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.184722000000001</SimpleData>
+		<SimpleData name="Longitude">-149.746667000000002</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">5116</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.746667,61.184722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">4663</SimpleData>
+		<SimpleData name="File_ID">2100.38.475</SimpleData>
+		<SimpleData name="Archived_R">1.99321E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">ASD North Star Elementary School</SimpleData>
+		<SimpleData name="Address">605 West Fireweed Lane</SimpleData>
+		<SimpleData name="City">Anchorage</SimpleData>
+		<SimpleData name="Borough">Anchorage</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99503</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">Schools - Municipality of Anchorage</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.199722000000001</SimpleData>
+		<SimpleData name="Longitude">-149.892777999999993</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">5117</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.892778,61.199722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">4664</SimpleData>
+		<SimpleData name="File_ID">2100.38.396</SimpleData>
+		<SimpleData name="Archived_R">1.99021E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">ASD Abbott Loop Elementary School</SimpleData>
+		<SimpleData name="Address">8427 Lake Otis Parkway</SimpleData>
+		<SimpleData name="City">Anchorage</SimpleData>
+		<SimpleData name="Borough">Anchorage</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99507</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">Schools - Municipality of Anchorage</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.143889000000001</SimpleData>
+		<SimpleData name="Longitude">-149.832222000000002</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">5118</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.832222,61.143889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">4665</SimpleData>
+		<SimpleData name="File_ID">2100.38.394</SimpleData>
+		<SimpleData name="Archived_R">1.99021E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">ASD Lake Otis Elementary School</SimpleData>
+		<SimpleData name="Address">3331 Lake Otis Parkway</SimpleData>
+		<SimpleData name="City">Anchorage</SimpleData>
+		<SimpleData name="Borough">Anchorage</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99508</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">Schools - Municipality of Anchorage</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.190832999999998</SimpleData>
+		<SimpleData name="Longitude">-149.836667000000006</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">5119</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.836667,61.190833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">4666</SimpleData>
+		<SimpleData name="File_ID">2100.38.395</SimpleData>
+		<SimpleData name="Archived_R">1.99021E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">ASD Rogers Park Elementary School</SimpleData>
+		<SimpleData name="Address">1400 East Northern Lights Boulevard</SimpleData>
+		<SimpleData name="City">Anchorage</SimpleData>
+		<SimpleData name="Borough">Anchorage</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99508</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">Schools - Municipality of Anchorage</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.193610999999997</SimpleData>
+		<SimpleData name="Longitude">-149.855277999999998</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">5120</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.855278,61.193611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">4688</SimpleData>
+		<SimpleData name="File_ID">2100.38.393</SimpleData>
+		<SimpleData name="Archived_R">1.99921E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">ASD Central Middle School</SimpleData>
+		<SimpleData name="Address">1405 E Street</SimpleData>
+		<SimpleData name="City">Anchorage</SimpleData>
+		<SimpleData name="Borough">Anchorage</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99501</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.208187000000002</SimpleData>
+		<SimpleData name="Longitude">-149.889320999999995</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5121</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.889321,61.208187</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">4689</SimpleData>
+		<SimpleData name="File_ID">2100.38.393</SimpleData>
+		<SimpleData name="Archived_R">1.99921E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">ASD Tudor Elementary School</SimpleData>
+		<SimpleData name="Address">1666 Cache Drive</SimpleData>
+		<SimpleData name="City">Anchorage</SimpleData>
+		<SimpleData name="Borough">Anchorage</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99501</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.174354999999998</SimpleData>
+		<SimpleData name="Longitude">-149.850535000000008</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5122</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.850535,61.174355</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">4690</SimpleData>
+		<SimpleData name="File_ID">2100.38.393</SimpleData>
+		<SimpleData name="Archived_R">1.99921E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">ASD Baxter Elementary School</SimpleData>
+		<SimpleData name="Address">2991 Baxter Road</SimpleData>
+		<SimpleData name="City">Anchorage</SimpleData>
+		<SimpleData name="Borough">Anchorage</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99501</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.193294000000002</SimpleData>
+		<SimpleData name="Longitude">-149.761279000000002</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5123</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.761279,61.193294</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">4691</SimpleData>
+		<SimpleData name="Archived_R">1.99921E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">ASD Old Northern Lights Elementary School</SimpleData>
+		<SimpleData name="Address">1705 West 32nd Avenue</SimpleData>
+		<SimpleData name="City">Anchorage</SimpleData>
+		<SimpleData name="Borough">Anchorage</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99517</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.192427000000002</SimpleData>
+		<SimpleData name="Longitude">-149.916966000000002</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5124</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.916966,61.192427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">22964</SimpleData>
+		<SimpleData name="File_ID">2100.26.286</SimpleData>
+		<SimpleData name="Archived_R">1.99721E+12</SimpleData>
+		<SimpleData name="LUST_Event">2903</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">ASD Klatt Elementary School</SimpleData>
+		<SimpleData name="Address">11900 Juniper Drive</SimpleData>
+		<SimpleData name="City">Anchorage</SimpleData>
+		<SimpleData name="Borough">Anchorage</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99515</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">Schools - Municipality of Anchorage</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.112797999999998</SimpleData>
+		<SimpleData name="Longitude">-149.908677000000012</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">5125</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.908677,61.112798</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">23027</SimpleData>
+		<SimpleData name="File_ID">2100.26.292</SimpleData>
+		<SimpleData name="Archived_R">1.99721E+12</SimpleData>
+		<SimpleData name="LUST_Event">2786</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">Spring Hill Elementary</SimpleData>
+		<SimpleData name="Address">9911 Lake Otis Parkway</SimpleData>
+		<SimpleData name="City">Anchorage</SimpleData>
+		<SimpleData name="Borough">Anchorage</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99501</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">ASD - Anchorage School District</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.133498000000003</SimpleData>
+		<SimpleData name="Longitude">-149.829777000000007</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">5126</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.829777,61.133498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">23030</SimpleData>
+		<SimpleData name="File_ID">2100.26.298</SimpleData>
+		<SimpleData name="Archived_R">1.99721E+12</SimpleData>
+		<SimpleData name="LUST_Event">2770</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">Gruening Middle School</SimpleData>
+		<SimpleData name="Address">9601 Lee Street</SimpleData>
+		<SimpleData name="City">Eagle River</SimpleData>
+		<SimpleData name="Borough">Anchorage</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99577</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">ASD - Anchorage School District</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.306998000000000</SimpleData>
+		<SimpleData name="Longitude">-149.548277000000013</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">5127</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.548277,61.306998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">23034</SimpleData>
+		<SimpleData name="File_ID">2100.26.295</SimpleData>
+		<SimpleData name="Archived_R">1.99721E+12</SimpleData>
+		<SimpleData name="LUST_Event">2774</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">ASD King Career Center</SimpleData>
+		<SimpleData name="Address">2650 Northern Lights</SimpleData>
+		<SimpleData name="City">Anchorage</SimpleData>
+		<SimpleData name="Borough">Anchorage</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99501</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">ASD - Anchorage School District</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.193798000000001</SimpleData>
+		<SimpleData name="Longitude">-149.832177000000001</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">5128</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.832177,61.193798</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">23035</SimpleData>
+		<SimpleData name="File_ID">2100.26.294</SimpleData>
+		<SimpleData name="Archived_R">1.99721E+12</SimpleData>
+		<SimpleData name="LUST_Event">2775</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">ASD Student Nutrition</SimpleData>
+		<SimpleData name="Address">1307 Labar Street</SimpleData>
+		<SimpleData name="City">Anchorage</SimpleData>
+		<SimpleData name="Borough">Anchorage</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99501</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">ASD - Anchorage School District</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.111899999999999</SimpleData>
+		<SimpleData name="Longitude">-149.858100000000007</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">5129</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.8581,61.1119</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">23036</SimpleData>
+		<SimpleData name="File_ID">2106.26.007</SimpleData>
+		<SimpleData name="Archived_R">1.99821E+12</SimpleData>
+		<SimpleData name="LUST_Event">2776</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">ASD Chugiak High School Emergency Generator</SimpleData>
+		<SimpleData name="Address">16525 South Birchwood Loop Road</SimpleData>
+		<SimpleData name="City">Chugiak</SimpleData>
+		<SimpleData name="Borough">Anchorage</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99567</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">Eklutna, Inc.</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.369300000000003</SimpleData>
+		<SimpleData name="Longitude">-149.536000000000001</SimpleData>
+		<SimpleData name="orig_ogc_fid">5130</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.536,61.3693</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">23051</SimpleData>
+		<SimpleData name="File_ID">2100.26.290</SimpleData>
+		<SimpleData name="Archived_R">1.99721E+12</SimpleData>
+		<SimpleData name="LUST_Event">2792</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">ASD Northwood Elementary School UST #1</SimpleData>
+		<SimpleData name="Address">4807 Northwood Drive</SimpleData>
+		<SimpleData name="City">Anchorage</SimpleData>
+		<SimpleData name="Borough">Anchorage</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99517</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">ASD - Anchorage School District</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.176206000000001</SimpleData>
+		<SimpleData name="Longitude">-149.924770999999993</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5131</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.924771,61.176206</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">23274</SimpleData>
+		<SimpleData name="File_ID">2100.26.395</SimpleData>
+		<SimpleData name="Archived_R">1.99821E+12</SimpleData>
+		<SimpleData name="LUST_Event">2392</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">MOA - AWWU Well #14</SimpleData>
+		<SimpleData name="Address">10121 Lake Otis Parkway</SimpleData>
+		<SimpleData name="City">Anchorage</SimpleData>
+		<SimpleData name="Borough">Anchorage</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99503</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">AWWU  Maintenance Superintendant</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.129567999999999</SimpleData>
+		<SimpleData name="Longitude">-149.831550999999990</SimpleData>
+		<SimpleData name="orig_ogc_fid">5132</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.831551,61.129568</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">23317</SimpleData>
+		<SimpleData name="File_ID">1513.26.048</SimpleData>
+		<SimpleData name="Archived_R">1.99811E+12</SimpleData>
+		<SimpleData name="LUST_Event">2350</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">Harborview Elementary School</SimpleData>
+		<SimpleData name="Address">1255 Glacier Highway</SimpleData>
+		<SimpleData name="City">Juneau</SimpleData>
+		<SimpleData name="Borough">Juneau</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99801</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">Juneau School District</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">58.303103000000000</SimpleData>
+		<SimpleData name="Longitude">-134.422959999999989</SimpleData>
+		<SimpleData name="orig_ogc_fid">5133</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-134.42296,58.303103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">23381</SimpleData>
+		<SimpleData name="File_ID">2100.26.390</SimpleData>
+		<SimpleData name="Archived_R">1.99521E+12</SimpleData>
+		<SimpleData name="LUST_Event">429</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">UAA - Energy Module Building #2</SimpleData>
+		<SimpleData name="Address">3211 Providence Drive;</SimpleData>
+		<SimpleData name="City">Anchorage</SimpleData>
+		<SimpleData name="Borough">Anchorage</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99523</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">UAA Facilities Campus &amp; Services</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.188510000000001</SimpleData>
+		<SimpleData name="Longitude">-149.820740000000001</SimpleData>
+		<SimpleData name="orig_ogc_fid">5134</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.82074,61.18851</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">23392</SimpleData>
+		<SimpleData name="File_ID">2100.26.418</SimpleData>
+		<SimpleData name="Archived_R">1.99521E+12</SimpleData>
+		<SimpleData name="LUST_Event">437</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">Alaska Pacific University - APU</SimpleData>
+		<SimpleData name="Address">4101 University Dr.;</SimpleData>
+		<SimpleData name="City">Anchorage</SimpleData>
+		<SimpleData name="Borough">Anchorage</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99508</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">Alaska Pacific University</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.191890000000001</SimpleData>
+		<SimpleData name="Longitude">-149.805322999999987</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5135</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.805323,61.19189</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">23905</SimpleData>
+		<SimpleData name="File_ID">2100.26.333</SimpleData>
+		<SimpleData name="Archived_R">1.99121E+12</SimpleData>
+		<SimpleData name="LUST_Event">234</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">UAA - Building J (used oil tanks)</SimpleData>
+		<SimpleData name="Address">3211 Providence Dr.;</SimpleData>
+		<SimpleData name="City">Anchorage</SimpleData>
+		<SimpleData name="Borough">Anchorage</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99508</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">UAA Facilities Campus &amp; Services</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.191388000000003</SimpleData>
+		<SimpleData name="Longitude">-149.820020000000000</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">5136</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.82002,61.191388</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">25100</SimpleData>
+		<SimpleData name="File_ID">2100.26.297</SimpleData>
+		<SimpleData name="Archived_R">1.99721E+12</SimpleData>
+		<SimpleData name="LUST_Event">2430</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">ASD Hanshew Middle School UST #1</SimpleData>
+		<SimpleData name="Address">10121 Lake Otis Parkway</SimpleData>
+		<SimpleData name="City">Anchorage</SimpleData>
+		<SimpleData name="Borough">Anchorage</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99501</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">ASD - Anchorage School District</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.829797999999997</SimpleData>
+		<SimpleData name="Longitude">-149.831476000000009</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">5137</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.831476,61.829798</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">25153</SimpleData>
+		<SimpleData name="File_ID">1513.26.060</SimpleData>
+		<SimpleData name="Archived_R">1.99911E+12</SimpleData>
+		<SimpleData name="LUST_Event">2726</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">Harborview School - Juneau</SimpleData>
+		<SimpleData name="Address">1255 GLACIER AVE</SimpleData>
+		<SimpleData name="City">Juneau</SimpleData>
+		<SimpleData name="Borough">Juneau</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99801</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">Juneau School District</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">58.303051000000004</SimpleData>
+		<SimpleData name="Longitude">-134.426714000000004</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5138</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-134.426714,58.303051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">25193</SimpleData>
+		<SimpleData name="File_ID">2100.26.291</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">ASD Wendler Middle School</SimpleData>
+		<SimpleData name="Address">2905 Lake Otis Parkway</SimpleData>
+		<SimpleData name="City">Anchorage</SimpleData>
+		<SimpleData name="Borough">Anchorage</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99508</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">Schools - Municipality of Anchorage</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.193980000000003</SimpleData>
+		<SimpleData name="Longitude">-149.836757000000006</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5139</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.836757,61.19398</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">25381</SimpleData>
+		<SimpleData name="File_ID">2435.38.004</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Nightmute School</SimpleData>
+		<SimpleData name="Address">South of Kaugia Street</SimpleData>
+		<SimpleData name="City">Nightmute</SimpleData>
+		<SimpleData name="Borough">Bethel</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99690</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">Lower Kuskokwim School District</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">60.476958000000003</SimpleData>
+		<SimpleData name="Longitude">-164.721932000000010</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5140</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-164.721932,60.476958</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">25429</SimpleData>
+		<SimpleData name="File_ID">2260.57.001</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Tazlina Copper Valley School</SimpleData>
+		<SimpleData name="Address">Former Copper Valley School</SimpleData>
+		<SimpleData name="City">Glennallen</SimpleData>
+		<SimpleData name="Borough">Valdez Cordova</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99588</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">Catholic Church, Diocese of Anchorage</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">62.047510000000003</SimpleData>
+		<SimpleData name="Longitude">-145.403060000000011</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5141</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-145.40306,62.04751</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">25449</SimpleData>
+		<SimpleData name="File_ID">2264.26.021</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">Hermon Hutchens Elementary School</SimpleData>
+		<SimpleData name="Address">1009 West Klutina Street</SimpleData>
+		<SimpleData name="City">Valdez</SimpleData>
+		<SimpleData name="Borough">Valdez Cordova</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99686</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">Valdez City School District</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.132931999999997</SimpleData>
+		<SimpleData name="Longitude">-146.374531999999988</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5142</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-146.374532,61.132932</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">25524</SimpleData>
+		<SimpleData name="File_ID">2100.26.567</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">ASD Chester Valley Elementary School</SimpleData>
+		<SimpleData name="Address">1705 Patterson Street</SimpleData>
+		<SimpleData name="City">Anchorage</SimpleData>
+		<SimpleData name="Borough">Anchorage</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99504</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">ASD - Anchorage School District</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.204720000000002</SimpleData>
+		<SimpleData name="Longitude">-149.747335999999990</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5143</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.747336,61.20472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">25672</SimpleData>
+		<SimpleData name="File_ID">100.26.208</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">FNSB - Ticasuk Brown Elementary School</SimpleData>
+		<SimpleData name="Address">785 Lakloey Drive</SimpleData>
+		<SimpleData name="City">North Pole</SimpleData>
+		<SimpleData name="Borough">Fairbanks North Star</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99705</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">Fairbanks North Star Borough</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">64.825190000000006</SimpleData>
+		<SimpleData name="Longitude">-147.534019999999998</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5144</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-147.53402,64.82519</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">25683</SimpleData>
+		<SimpleData name="File_ID">102.38.165</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">UAF CTC Lot 6 Block 95 Fairbanks Townsite</SimpleData>
+		<SimpleData name="Address">7th Avenue; Lot 6 Block 95 Fairbanks Townsite</SimpleData>
+		<SimpleData name="City">Fairbanks</SimpleData>
+		<SimpleData name="Borough">Fairbanks North Star</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99701</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">University of Alaska - Land Management</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">64.840344000000002</SimpleData>
+		<SimpleData name="Longitude">-147.727302000000009</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5145</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-147.727302,64.840344</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">25684</SimpleData>
+		<SimpleData name="File_ID">100.38.235</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">FNSB - Weller Elementary School</SimpleData>
+		<SimpleData name="Address">635 Elementary Drive</SimpleData>
+		<SimpleData name="City">Fairbanks</SimpleData>
+		<SimpleData name="Borough">Fairbanks North Star</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99712</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">Fairbanks North Star Borough</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">64.887369000000007</SimpleData>
+		<SimpleData name="Longitude">-147.590149999999994</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5146</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-147.59015,64.887369</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">25686</SimpleData>
+		<SimpleData name="File_ID">100.38.236</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">FNSB - Badger Road Elementary School</SimpleData>
+		<SimpleData name="Address">2301 Bradway Road</SimpleData>
+		<SimpleData name="City">North Pole</SimpleData>
+		<SimpleData name="Borough">Fairbanks North Star</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99705</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">Fairbanks North Star Borough</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">64.803845999999993</SimpleData>
+		<SimpleData name="Longitude">-147.411020000000008</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5147</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-147.41102,64.803846</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">25788</SimpleData>
+		<SimpleData name="File_ID">2100.26.574</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">UAA Rasmuson Hall UST #1</SimpleData>
+		<SimpleData name="Address">3416 Seawolf Drive</SimpleData>
+		<SimpleData name="City">Anchorage</SimpleData>
+		<SimpleData name="Borough">Anchorage</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99508</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">UAA Facilities Campus &amp; Services</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.189900000000002</SimpleData>
+		<SimpleData name="Longitude">-149.831400000000002</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5148</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.8314,61.1899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">25885</SimpleData>
+		<SimpleData name="File_ID">2100.38.530</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">ASD East High School Former Bonfire Site</SimpleData>
+		<SimpleData name="Address">4025 East Northern Lights Boulevard</SimpleData>
+		<SimpleData name="City">Anchorage</SimpleData>
+		<SimpleData name="Borough">Anchorage</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99501</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">Municipality of Anchorage</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.201079999999997</SimpleData>
+		<SimpleData name="Longitude">-149.807408000000009</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5149</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.807408,61.20108</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">25958</SimpleData>
+		<SimpleData name="File_ID">2333.38.052</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">UA Kenai Peninsula College Career Center</SimpleData>
+		<SimpleData name="Address">162 College Road</SimpleData>
+		<SimpleData name="City">Soldotna</SimpleData>
+		<SimpleData name="Borough">Kenai Peninsula</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99669</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">University of Alaska - Anchorage</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">60.486392000000002</SimpleData>
+		<SimpleData name="Longitude">-151.129558000000003</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5150</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-151.129558,60.486392</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">26215</SimpleData>
+		<SimpleData name="File_ID">1508.38.017</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Haines Borough Elementary School</SimpleData>
+		<SimpleData name="Address">SW Corner of Main Street and 3rd Avenue; Lot 8 Primary School Subdivision</SimpleData>
+		<SimpleData name="City">Haines</SimpleData>
+		<SimpleData name="Borough">Haines</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99827</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">Haines Borough</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">59.234971999999999</SimpleData>
+		<SimpleData name="Longitude">-135.448200000000014</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">5151</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-135.4482,59.234972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">26454</SimpleData>
+		<SimpleData name="File_ID">2106.26.016</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">ASD Mirror Lake Middle School UST #1</SimpleData>
+		<SimpleData name="Address">22901 Lake Hill Drive</SimpleData>
+		<SimpleData name="City">Chugiak</SimpleData>
+		<SimpleData name="Borough">Anchorage</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99567</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">Anchorage School District</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.427563999999997</SimpleData>
+		<SimpleData name="Longitude">-149.424478999999991</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5152</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.424479,61.427564</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">26457</SimpleData>
+		<SimpleData name="File_ID">2100.26.593</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">ASD Northwood Elementary School UST #2</SimpleData>
+		<SimpleData name="Address">4807 Northwood Drive</SimpleData>
+		<SimpleData name="City">Anchorage</SimpleData>
+		<SimpleData name="Borough">Anchorage</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99517</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">Anchorage School District</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.176206000000001</SimpleData>
+		<SimpleData name="Longitude">-149.924709000000007</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5153</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.924709,61.176206</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">26464</SimpleData>
+		<SimpleData name="File_ID">2107.26.025</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">ASD Alpenglow Elementary School UST #1</SimpleData>
+		<SimpleData name="Address">19201 Driftwood Bay Drive</SimpleData>
+		<SimpleData name="City">Eagle River</SimpleData>
+		<SimpleData name="Borough">Anchorage</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99577</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">Anchorage School District</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.301841000000003</SimpleData>
+		<SimpleData name="Longitude">-149.524738000000013</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5154</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.524738,61.301841</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsComplete">
+		<SimpleData name="Hazard_ID">26481</SimpleData>
+		<SimpleData name="File_ID">2100.26.594</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">ASD Hanshew Middle School UST #2</SimpleData>
+		<SimpleData name="Address">10121 Lake Otis Parkway</SimpleData>
+		<SimpleData name="City">Anchorage</SimpleData>
+		<SimpleData name="Borough">Anchorage</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99518</SimpleData>
+		<SimpleData name="Status">Cleanup Complete</SimpleData>
+		<SimpleData name="Staff">No Longer Assigned</SimpleData>
+		<SimpleData name="Landowner">Anchorage School District</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.130178999999998</SimpleData>
+		<SimpleData name="Longitude">-149.829552000000007</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5155</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.829552,61.130179</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

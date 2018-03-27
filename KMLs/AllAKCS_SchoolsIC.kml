@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="AllAKCS_SchoolsIC" id="AllAKCS_SchoolsIC">
+	<SimpleField name="Hazard_ID" type="float"></SimpleField>
+	<SimpleField name="File_ID" type="string"></SimpleField>
+	<SimpleField name="Archived_R" type="string"></SimpleField>
+	<SimpleField name="LUST_Event" type="float"></SimpleField>
+	<SimpleField name="CS_or_LUST" type="string"></SimpleField>
+	<SimpleField name="Site_Name" type="string"></SimpleField>
+	<SimpleField name="Address" type="string"></SimpleField>
+	<SimpleField name="City" type="string"></SimpleField>
+	<SimpleField name="Borough" type="string"></SimpleField>
+	<SimpleField name="State" type="string"></SimpleField>
+	<SimpleField name="Zip_Code" type="float"></SimpleField>
+	<SimpleField name="Status" type="string"></SimpleField>
+	<SimpleField name="Staff" type="string"></SimpleField>
+	<SimpleField name="Landowner" type="string"></SimpleField>
+	<SimpleField name="Site_Type" type="string"></SimpleField>
+	<SimpleField name="Latitude" type="float"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+	<SimpleField name="Horizontal" type="string"></SimpleField>
+	<SimpleField name="orig_ogc_fid" type="int"></SimpleField>
+</Schema>
+<Folder><name>AllAKCS_SchoolsIC</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsIC">
+		<SimpleData name="Hazard_ID">653</SimpleData>
+		<SimpleData name="File_ID">2320.38.036</SimpleData>
+		<SimpleData name="Archived_R">1.98923E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Kenai Elementary School</SimpleData>
+		<SimpleData name="Address">705 Frontage Road</SimpleData>
+		<SimpleData name="City">Kenai</SimpleData>
+		<SimpleData name="Borough">Kenai Peninsula</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99611</SimpleData>
+		<SimpleData name="Status">Cleanup Complete - Institutional Controls</SimpleData>
+		<SimpleData name="Staff">IC Unit</SimpleData>
+		<SimpleData name="Landowner">Kenai Peninsula Borough</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">60.553888999999998</SimpleData>
+		<SimpleData name="Longitude">-151.254444000000007</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">5156</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-151.254444,60.553889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsIC">
+		<SimpleData name="Hazard_ID">1039</SimpleData>
+		<SimpleData name="File_ID">2450.38.002</SimpleData>
+		<SimpleData name="Archived_R">1.99025E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Toksook Bay School</SimpleData>
+		<SimpleData name="Address">Toksook Bay</SimpleData>
+		<SimpleData name="City">Toksook Bay</SimpleData>
+		<SimpleData name="Borough">Bethel</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99637</SimpleData>
+		<SimpleData name="Status">Cleanup Complete - Institutional Controls</SimpleData>
+		<SimpleData name="Staff">IC Unit</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">60.530610000000003</SimpleData>
+		<SimpleData name="Longitude">-165.109034000000008</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5157</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-165.109034,60.53061</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsIC">
+		<SimpleData name="Hazard_ID">1287</SimpleData>
+		<SimpleData name="File_ID">2319.38.001</SimpleData>
+		<SimpleData name="Archived_R">1.99123E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Tustumena Elementary School</SimpleData>
+		<SimpleData name="Address">58200 Sterling Highway</SimpleData>
+		<SimpleData name="City">Kasilof</SimpleData>
+		<SimpleData name="Borough">Kenai Peninsula</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99610</SimpleData>
+		<SimpleData name="Status">Cleanup Complete - Institutional Controls</SimpleData>
+		<SimpleData name="Staff">IC Unit</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">60.307777999999999</SimpleData>
+		<SimpleData name="Longitude">-151.263610999999997</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">5158</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-151.263611,60.307778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsIC">
+		<SimpleData name="Hazard_ID">1860</SimpleData>
+		<SimpleData name="File_ID">2633.38.001</SimpleData>
+		<SimpleData name="Archived_R">1.99325E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Pedro Bay Former Dena'ina School</SimpleData>
+		<SimpleData name="Address">Village of Pedro Bay</SimpleData>
+		<SimpleData name="City">Pedro Bay</SimpleData>
+		<SimpleData name="Borough">Lake and Peninsula</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99647</SimpleData>
+		<SimpleData name="Status">Cleanup Complete - Institutional Controls</SimpleData>
+		<SimpleData name="Staff">Bill O'Connell</SimpleData>
+		<SimpleData name="Landowner">Alaska Dept. of Comm., Community and Econ. Develop</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">59.783248000000000</SimpleData>
+		<SimpleData name="Longitude">-154.098159000000010</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">5159</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-154.098159,59.783248</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsIC">
+		<SimpleData name="Hazard_ID">2427</SimpleData>
+		<SimpleData name="File_ID">2325.38.002</SimpleData>
+		<SimpleData name="Archived_R">1.99523E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Ninilchik Elementary School</SimpleData>
+		<SimpleData name="Address">15735 Sterling Highway</SimpleData>
+		<SimpleData name="City">Ninilchik</SimpleData>
+		<SimpleData name="Borough">Kenai Peninsula</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99639</SimpleData>
+		<SimpleData name="Status">Cleanup Complete - Institutional Controls</SimpleData>
+		<SimpleData name="Staff">IC Unit</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">60.043056000000000</SimpleData>
+		<SimpleData name="Longitude">-151.675833000000011</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">5160</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-151.675833,60.043056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsIC">
+		<SimpleData name="Hazard_ID">2428</SimpleData>
+		<SimpleData name="File_ID">2308.38.001</SimpleData>
+		<SimpleData name="Archived_R">1.99523E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Cooper Landing Elementary School</SimpleData>
+		<SimpleData name="Address">19030 Bean Creek Road</SimpleData>
+		<SimpleData name="City">Cooper Landing</SimpleData>
+		<SimpleData name="Borough">Kenai Peninsula</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99572</SimpleData>
+		<SimpleData name="Status">Cleanup Complete - Institutional Controls</SimpleData>
+		<SimpleData name="Staff">IC Unit</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">60.494999999999997</SimpleData>
+		<SimpleData name="Longitude">-149.808333000000005</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">5161</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.808333,60.495</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsIC">
+		<SimpleData name="Hazard_ID">2641</SimpleData>
+		<SimpleData name="File_ID">420.38.004</SimpleData>
+		<SimpleData name="Archived_R">1.99631E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">NSB Point Hope Tikigaq School Diesel Tank</SimpleData>
+		<SimpleData name="Address">Point Hope</SimpleData>
+		<SimpleData name="City">Point Hope</SimpleData>
+		<SimpleData name="Borough">North Slope</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99766</SimpleData>
+		<SimpleData name="Status">Cleanup Complete - Institutional Controls</SimpleData>
+		<SimpleData name="Staff">IC Unit</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">68.349500000000006</SimpleData>
+		<SimpleData name="Longitude">-166.737500000000011</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5162</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-166.7375,68.3495</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsIC">
+		<SimpleData name="Hazard_ID">2816</SimpleData>
+		<SimpleData name="File_ID">2643.38.031.01</SimpleData>
+		<SimpleData name="Archived_R">1.99725E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">St. George TPA 22-1 School UST Site</SimpleData>
+		<SimpleData name="Address">Near the School</SimpleData>
+		<SimpleData name="City">Saint George</SimpleData>
+		<SimpleData name="Borough">Aleutian Islands</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99591</SimpleData>
+		<SimpleData name="Status">Cleanup Complete - Institutional Controls</SimpleData>
+		<SimpleData name="Staff">Louis Howard</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">56.602429999999998</SimpleData>
+		<SimpleData name="Longitude">-169.544195000000002</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">5163</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-169.544195,56.60243</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsIC">
+		<SimpleData name="Hazard_ID">3001</SimpleData>
+		<SimpleData name="File_ID">2100.38.398</SimpleData>
+		<SimpleData name="Archived_R">1.99821E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">ASD Nunaka Valley Elementary School</SimpleData>
+		<SimpleData name="Address">1905 Twining Drive</SimpleData>
+		<SimpleData name="City">Anchorage</SimpleData>
+		<SimpleData name="Borough">Anchorage</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99504</SimpleData>
+		<SimpleData name="Status">Cleanup Complete - Institutional Controls</SimpleData>
+		<SimpleData name="Staff">IC Unit</SimpleData>
+		<SimpleData name="Landowner">Schools - Municipality of Anchorage</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.203055999999997</SimpleData>
+		<SimpleData name="Longitude">-149.775833000000006</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">5164</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.775833,61.203056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsIC">
+		<SimpleData name="Hazard_ID">3075</SimpleData>
+		<SimpleData name="File_ID">750.38.001</SimpleData>
+		<SimpleData name="Archived_R">1.99831E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Stevens Village Old School</SimpleData>
+		<SimpleData name="Address">Between Yukon &amp; Husky Rds</SimpleData>
+		<SimpleData name="City">Stevens Village</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99774</SimpleData>
+		<SimpleData name="Status">Cleanup Complete - Institutional Controls</SimpleData>
+		<SimpleData name="Staff">IC Unit</SimpleData>
+		<SimpleData name="Landowner">Alaska Dept. of Natural Res. - Land</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">66.006281000000001</SimpleData>
+		<SimpleData name="Longitude">-149.095345000000009</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5165</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.095345,66.006281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsIC">
+		<SimpleData name="Hazard_ID">3210</SimpleData>
+		<SimpleData name="File_ID">2601.38.007</SimpleData>
+		<SimpleData name="Archived_R">1.99925E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Kodiak Fish Tech Center UST</SimpleData>
+		<SimpleData name="Address">900 Trident Way</SimpleData>
+		<SimpleData name="City">Kodiak</SimpleData>
+		<SimpleData name="Borough">Kodiak Island</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99617</SimpleData>
+		<SimpleData name="Status">Cleanup Complete - Institutional Controls</SimpleData>
+		<SimpleData name="Staff">IC Unit</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">57.787778000000003</SimpleData>
+		<SimpleData name="Longitude">-152.392222000000004</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">5166</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-152.392222,57.787778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsIC">
+		<SimpleData name="Hazard_ID">3229</SimpleData>
+		<SimpleData name="File_ID">100.38.137</SimpleData>
+		<SimpleData name="Archived_R">1.99931E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">North Pole Elementary School LUST</SimpleData>
+		<SimpleData name="Address">250 Snowman Lane</SimpleData>
+		<SimpleData name="City">North Pole</SimpleData>
+		<SimpleData name="Borough">Fairbanks North Star</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99705</SimpleData>
+		<SimpleData name="Status">Cleanup Complete - Institutional Controls</SimpleData>
+		<SimpleData name="Staff">IC Unit</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">64.751472000000007</SimpleData>
+		<SimpleData name="Longitude">-147.349661999999995</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">5167</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-147.349662,64.751472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsIC">
+		<SimpleData name="Hazard_ID">3336</SimpleData>
+		<SimpleData name="File_ID">2300.38.001</SimpleData>
+		<SimpleData name="Archived_R">2.00023E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Nanwalek School</SimpleData>
+		<SimpleData name="Address">63550 Alexandrovsky St.</SimpleData>
+		<SimpleData name="City">Nanwalek</SimpleData>
+		<SimpleData name="Borough">Kenai Peninsula</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99603</SimpleData>
+		<SimpleData name="Status">Cleanup Complete - Institutional Controls</SimpleData>
+		<SimpleData name="Staff">IC Unit</SimpleData>
+		<SimpleData name="Landowner">Kenai Peninsula Borough</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">59.354444000000001</SimpleData>
+		<SimpleData name="Longitude">-151.920277999999996</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">5168</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-151.920278,59.354444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsIC">
+		<SimpleData name="Hazard_ID">3723</SimpleData>
+		<SimpleData name="File_ID">1525.38.030</SimpleData>
+		<SimpleData name="Archived_R">2.00112E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Baranof Elementary School UST</SimpleData>
+		<SimpleData name="Address">305 Baranof Avenue</SimpleData>
+		<SimpleData name="City">Sitka</SimpleData>
+		<SimpleData name="Borough">Sitka</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99835</SimpleData>
+		<SimpleData name="Status">Cleanup Complete - Institutional Controls</SimpleData>
+		<SimpleData name="Staff">IC Unit</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">57.053610999999997</SimpleData>
+		<SimpleData name="Longitude">-135.329221999999987</SimpleData>
+		<SimpleData name="orig_ogc_fid">5169</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-135.329222,57.053611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsIC">
+		<SimpleData name="Hazard_ID">3781</SimpleData>
+		<SimpleData name="File_ID">2408.38.007</SimpleData>
+		<SimpleData name="Archived_R">2.00125E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Chefornak School Tank Farm</SimpleData>
+		<SimpleData name="Address">South Bank of Kinia River</SimpleData>
+		<SimpleData name="City">Chefornak</SimpleData>
+		<SimpleData name="Borough">Bethel</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99561</SimpleData>
+		<SimpleData name="Status">Cleanup Complete - Institutional Controls</SimpleData>
+		<SimpleData name="Staff">IC Unit</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">60.157860999999997</SimpleData>
+		<SimpleData name="Longitude">-164.281916999999993</SimpleData>
+		<SimpleData name="orig_ogc_fid">5170</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-164.281917,60.157861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsIC">
+		<SimpleData name="Hazard_ID">3959</SimpleData>
+		<SimpleData name="File_ID">720.38.001</SimpleData>
+		<SimpleData name="Archived_R">2.00231E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Chalkyitsik School HOT Spill</SimpleData>
+		<SimpleData name="Address">Salmon Avenue and</SimpleData>
+		<SimpleData name="City">Chalkyitsik</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99788</SimpleData>
+		<SimpleData name="Status">Cleanup Complete - Institutional Controls</SimpleData>
+		<SimpleData name="Staff">IC Unit</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">66.649947999999995</SimpleData>
+		<SimpleData name="Longitude">-143.726929000000013</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5171</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-143.726929,66.649948</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsIC">
+		<SimpleData name="Hazard_ID">3989</SimpleData>
+		<SimpleData name="File_ID">1525.38.037</SimpleData>
+		<SimpleData name="Archived_R">2.00312E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Sheldon Jackson College Stockpiles</SimpleData>
+		<SimpleData name="Address">801 Lincoln Street</SimpleData>
+		<SimpleData name="City">Sitka</SimpleData>
+		<SimpleData name="Borough">Sitka</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99835</SimpleData>
+		<SimpleData name="Status">Cleanup Complete - Institutional Controls</SimpleData>
+		<SimpleData name="Staff">IC Unit</SimpleData>
+		<SimpleData name="Landowner">Alaska Arts Southeast</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">57.051886000000003</SimpleData>
+		<SimpleData name="Longitude">-135.324128999999999</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5172</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-135.324129,57.051886</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsIC">
+		<SimpleData name="Hazard_ID">4015</SimpleData>
+		<SimpleData name="File_ID">2454.38.004</SimpleData>
+		<SimpleData name="Archived_R">2.00325E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Former Kongiganak School Tank Farm</SimpleData>
+		<SimpleData name="Address">125' North of the School</SimpleData>
+		<SimpleData name="City">Kongiganak</SimpleData>
+		<SimpleData name="Borough">Bethel</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99559</SimpleData>
+		<SimpleData name="Status">Cleanup Complete - Institutional Controls</SimpleData>
+		<SimpleData name="Staff">IC Unit</SimpleData>
+		<SimpleData name="Landowner">Qemirtalek Coast Corporation (QCC)</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">59.961111000000002</SimpleData>
+		<SimpleData name="Longitude">-162.887222000000008</SimpleData>
+		<SimpleData name="Horizontal">NAD27</SimpleData>
+		<SimpleData name="orig_ogc_fid">5173</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-162.887222,59.961111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsIC">
+		<SimpleData name="Hazard_ID">4213</SimpleData>
+		<SimpleData name="File_ID">740.38.015</SimpleData>
+		<SimpleData name="Archived_R">2.00531E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Yukon Flats Rural Center HOT</SimpleData>
+		<SimpleData name="Address">800 William Loola Street</SimpleData>
+		<SimpleData name="City">Fort Yukon</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99740</SimpleData>
+		<SimpleData name="Status">Cleanup Complete - Institutional Controls</SimpleData>
+		<SimpleData name="Staff">IC Unit</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">66.564064999999999</SimpleData>
+		<SimpleData name="Longitude">-145.258939999999996</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5174</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-145.25894,66.564065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsIC">
+		<SimpleData name="Hazard_ID">4219</SimpleData>
+		<SimpleData name="File_ID">1508.38.017</SimpleData>
+		<SimpleData name="Archived_R">2.00511E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Haines Borough High School</SimpleData>
+		<SimpleData name="Address">SW Corner of Main Street and 6th Avenue</SimpleData>
+		<SimpleData name="City">Haines</SimpleData>
+		<SimpleData name="Borough">Haines</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99827</SimpleData>
+		<SimpleData name="Status">Cleanup Complete - Institutional Controls</SimpleData>
+		<SimpleData name="Staff">IC Unit</SimpleData>
+		<SimpleData name="Landowner">Haines Borough</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">59.234803999999997</SimpleData>
+		<SimpleData name="Longitude">-135.453545999999989</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5175</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-135.453546,59.234804</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsIC">
+		<SimpleData name="Hazard_ID">4647</SimpleData>
+		<SimpleData name="File_ID">2100.38.499</SimpleData>
+		<SimpleData name="Archived_R">2.00321E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">ASD East High School Diesel Tanks</SimpleData>
+		<SimpleData name="Address">4025 East Northern Lights Boulevard</SimpleData>
+		<SimpleData name="City">Anchorage</SimpleData>
+		<SimpleData name="Borough">Anchorage</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99501</SimpleData>
+		<SimpleData name="Status">Cleanup Complete - Institutional Controls</SimpleData>
+		<SimpleData name="Staff">IC Unit</SimpleData>
+		<SimpleData name="Landowner">Municipality of Anchorage</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.200198000000000</SimpleData>
+		<SimpleData name="Longitude">-149.805239000000000</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5176</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.805239,61.200198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsIC">
+		<SimpleData name="Hazard_ID">4661</SimpleData>
+		<SimpleData name="File_ID">2100.38.405</SimpleData>
+		<SimpleData name="Archived_R">1.99921E+12</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">ASD Creekside Park Elementary School</SimpleData>
+		<SimpleData name="Address">7500 East 6th Avenue</SimpleData>
+		<SimpleData name="City">Anchorage</SimpleData>
+		<SimpleData name="Borough">Anchorage</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99504</SimpleData>
+		<SimpleData name="Status">Cleanup Complete - Institutional Controls</SimpleData>
+		<SimpleData name="Staff">IC Unit</SimpleData>
+		<SimpleData name="Landowner">Schools - Municipality of Anchorage</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.216388999999999</SimpleData>
+		<SimpleData name="Longitude">-149.742500000000007</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">5177</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.7425,61.216389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsIC">
+		<SimpleData name="Hazard_ID">24606</SimpleData>
+		<SimpleData name="File_ID">2100.26.293</SimpleData>
+		<SimpleData name="Archived_R">1.99721E+12</SimpleData>
+		<SimpleData name="LUST_Event">1323</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">ASD Facilities and Maintenance Complex</SimpleData>
+		<SimpleData name="Address">1301 Labar Street</SimpleData>
+		<SimpleData name="City">Anchorage</SimpleData>
+		<SimpleData name="Borough">Anchorage</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99507</SimpleData>
+		<SimpleData name="Status">Cleanup Complete - Institutional Controls</SimpleData>
+		<SimpleData name="Staff">IC Unit</SimpleData>
+		<SimpleData name="Landowner">Schools - Municipality of Anchorage</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.112684999999999</SimpleData>
+		<SimpleData name="Longitude">-149.858623999999992</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">5178</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.858624,61.112685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsIC">
+		<SimpleData name="Hazard_ID">25016</SimpleData>
+		<SimpleData name="File_ID">210.26.003</SimpleData>
+		<SimpleData name="Archived_R">2.00033E+12</SimpleData>
+		<SimpleData name="LUST_Event">2210</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">Mentasta School</SimpleData>
+		<SimpleData name="Address">6 miles off the Tok cutoff of the Glenn Highway, 38 miles south of Tok Junction</SimpleData>
+		<SimpleData name="City">Mentasta Lake</SimpleData>
+		<SimpleData name="Borough">Southeast Fairbanks</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99780</SimpleData>
+		<SimpleData name="Status">Cleanup Complete - Institutional Controls</SimpleData>
+		<SimpleData name="Staff">IC Unit</SimpleData>
+		<SimpleData name="Landowner">Mentasta School</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">62.929499999999997</SimpleData>
+		<SimpleData name="Longitude">-143.797799999999995</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">5179</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-143.7978,62.9295</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsIC">
+		<SimpleData name="Hazard_ID">25609</SimpleData>
+		<SimpleData name="File_ID">2421.38.003</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Chief Paul Memorial School - Kipnuk</SimpleData>
+		<SimpleData name="Address">Village Road</SimpleData>
+		<SimpleData name="City">Kipnuk</SimpleData>
+		<SimpleData name="Borough">Bethel</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99614</SimpleData>
+		<SimpleData name="Status">Cleanup Complete - Institutional Controls</SimpleData>
+		<SimpleData name="Staff">IC Unit</SimpleData>
+		<SimpleData name="Landowner">Lower Kuskokwim School District</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">59.936506999999999</SimpleData>
+		<SimpleData name="Longitude">-164.038042999999988</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5180</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-164.038043,59.936507</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsIC">
+		<SimpleData name="Hazard_ID">25747</SimpleData>
+		<SimpleData name="File_ID">2524.26.001</SimpleData>
+		<SimpleData name="CS_or_LUST">LUST</SimpleData>
+		<SimpleData name="Site_Name">Chiniak School UST #2</SimpleData>
+		<SimpleData name="Address">42551 Chiniak Highway</SimpleData>
+		<SimpleData name="City">Chiniak</SimpleData>
+		<SimpleData name="Borough">Kodiak Island</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99615</SimpleData>
+		<SimpleData name="Status">Cleanup Complete - Institutional Controls</SimpleData>
+		<SimpleData name="Staff">IC Unit</SimpleData>
+		<SimpleData name="Landowner">Kodiak Island Borough</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">57.613815000000002</SimpleData>
+		<SimpleData name="Longitude">-152.234302000000014</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">5181</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-152.234302,57.613815</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsIC">
+		<SimpleData name="Hazard_ID">25798</SimpleData>
+		<SimpleData name="File_ID">2428.38.006</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Marshall Former School Day Tanks and Tank Farm</SimpleData>
+		<SimpleData name="Address">89 School Road</SimpleData>
+		<SimpleData name="City">Marshall</SimpleData>
+		<SimpleData name="Borough">Wade Hampton</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99585</SimpleData>
+		<SimpleData name="Status">Cleanup Complete - Institutional Controls</SimpleData>
+		<SimpleData name="Staff">Bill O'Connell</SimpleData>
+		<SimpleData name="Landowner">Lower Yukon School District</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.879032000000002</SimpleData>
+		<SimpleData name="Longitude">-162.086650999999989</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5182</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-162.086651,61.879032</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsIC">
+		<SimpleData name="Hazard_ID">26214</SimpleData>
+		<SimpleData name="File_ID">1508.38.017</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Haines Borough Primary School</SimpleData>
+		<SimpleData name="Address">South Side of Main Street, Between 4th and 5th Avenues; Lots 6 &amp; 7 Primary School Subdivision</SimpleData>
+		<SimpleData name="City">Haines</SimpleData>
+		<SimpleData name="Borough">Haines</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99827</SimpleData>
+		<SimpleData name="Status">Cleanup Complete - Institutional Controls</SimpleData>
+		<SimpleData name="Staff">IC Unit</SimpleData>
+		<SimpleData name="Landowner">Haines Residence LLC</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">59.235177000000000</SimpleData>
+		<SimpleData name="Longitude">-135.450142000000000</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5183</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-135.450142,59.235177</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_SchoolsIC">
+		<SimpleData name="Hazard_ID">26216</SimpleData>
+		<SimpleData name="File_ID">1508.38.017</SimpleData>
+		<SimpleData name="CS_or_LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Haines Borough Vocational Technical School</SimpleData>
+		<SimpleData name="Address">Ne Corner of Haines Highway Cutoff and Allen Road; Lot 5 Primary School Subdivision</SimpleData>
+		<SimpleData name="City">Haines</SimpleData>
+		<SimpleData name="Borough">Haines</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99827</SimpleData>
+		<SimpleData name="Status">Cleanup Complete - Institutional Controls</SimpleData>
+		<SimpleData name="Staff">IC Unit</SimpleData>
+		<SimpleData name="Landowner">Haines Borough</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">59.234693999999998</SimpleData>
+		<SimpleData name="Longitude">-135.455037000000004</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5184</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-135.455037,59.234694</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

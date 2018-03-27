@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="AllAKCS_Schools_statusInfoKML" id="AllAKCS_Schools_statusInfoKML">
+	<SimpleField name="Hazard_ID" type="float"></SimpleField>
+	<SimpleField name="File_ID" type="string"></SimpleField>
+	<SimpleField name="Archived_R" type="string"></SimpleField>
+	<SimpleField name="LUST_Event" type="float"></SimpleField>
+	<SimpleField name="CS_or_LUST" type="string"></SimpleField>
+	<SimpleField name="Site_Name" type="string"></SimpleField>
+	<SimpleField name="Address" type="string"></SimpleField>
+	<SimpleField name="City" type="string"></SimpleField>
+	<SimpleField name="Borough" type="string"></SimpleField>
+	<SimpleField name="State" type="string"></SimpleField>
+	<SimpleField name="Zip_Code" type="float"></SimpleField>
+	<SimpleField name="Status" type="string"></SimpleField>
+	<SimpleField name="Staff" type="string"></SimpleField>
+	<SimpleField name="Landowner" type="string"></SimpleField>
+	<SimpleField name="Site_Type" type="string"></SimpleField>
+	<SimpleField name="Latitude" type="float"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+	<SimpleField name="Horizontal" type="string"></SimpleField>
+	<SimpleField name="orig_ogc_fid" type="int"></SimpleField>
+</Schema>
+<Folder><name>AllAKCS_Schools_statusInfoKML</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_Schools_statusInfoKML">
+		<SimpleData name="Hazard_ID">25428</SimpleData>
+		<SimpleData name="File_ID">2451.57.002</SimpleData>
+		<SimpleData name="Site_Name">Tuluksak Old BIA School</SimpleData>
+		<SimpleData name="Address">Old BIA School property</SimpleData>
+		<SimpleData name="City">Tuluksak</SimpleData>
+		<SimpleData name="Borough">Bethel</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99679</SimpleData>
+		<SimpleData name="Status">Informational</SimpleData>
+		<SimpleData name="Staff">Christy Howard</SimpleData>
+		<SimpleData name="Landowner">Tulkisarmute Incorporated</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.100929999999998</SimpleData>
+		<SimpleData name="Longitude">-160.960769999999997</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5185</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-160.96077,61.10093</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_Schools_statusInfoKML">
+		<SimpleData name="Hazard_ID">25665</SimpleData>
+		<SimpleData name="File_ID">2413.57.001</SimpleData>
+		<SimpleData name="Site_Name">Emmonak Old BIA School</SimpleData>
+		<SimpleData name="Address">Old School location near the river</SimpleData>
+		<SimpleData name="City">Emmonak</SimpleData>
+		<SimpleData name="Borough">Wade Hampton</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99581</SimpleData>
+		<SimpleData name="Status">Informational</SimpleData>
+		<SimpleData name="Staff">Christy Howard</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">62.776944000000000</SimpleData>
+		<SimpleData name="Longitude">-164.531111000000010</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5186</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-164.531111,62.776944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_Schools_statusInfoKML">
+		<SimpleData name="Hazard_ID">25889</SimpleData>
+		<SimpleData name="File_ID">2425.57.002</SimpleData>
+		<SimpleData name="Site_Name">Kwigillingok Old Head Start School</SimpleData>
+		<SimpleData name="Address">~300 Feet S of Kwigillingok River</SimpleData>
+		<SimpleData name="City">Kwigillingok</SimpleData>
+		<SimpleData name="Borough">Bethel</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99622</SimpleData>
+		<SimpleData name="Status">Informational</SimpleData>
+		<SimpleData name="Staff">Christy Howard</SimpleData>
+		<SimpleData name="Landowner">Native Village of Kwigillingok</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">59.867815999999998</SimpleData>
+		<SimpleData name="Longitude">-163.142517999999995</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5187</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-163.142518,59.867816</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AllAKCS_Schools_statusInfoKML">
+		<SimpleData name="Hazard_ID">26643</SimpleData>
+		<SimpleData name="File_ID">2409.57.001</SimpleData>
+		<SimpleData name="Site_Name">Chevak Old BIA School</SimpleData>
+		<SimpleData name="Address">Aurora Street, Between Sunset and Ermine Streets</SimpleData>
+		<SimpleData name="City">Chevak</SimpleData>
+		<SimpleData name="Borough">Wade Hampton</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip_Code">99563</SimpleData>
+		<SimpleData name="Status">Informational</SimpleData>
+		<SimpleData name="Staff">Christy Howard</SimpleData>
+		<SimpleData name="Landowner">City of Chevak</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.528607999999998</SimpleData>
+		<SimpleData name="Longitude">-165.586591999999996</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5188</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-165.586592,61.528608</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
