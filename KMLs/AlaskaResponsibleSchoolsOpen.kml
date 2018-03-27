@@ -1,0 +1,1153 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="AlaskaResponsibleSchoolsOpen" id="AlaskaResponsibleSchoolsOpen">
+	<SimpleField name="Hazard ID" type="float"></SimpleField>
+	<SimpleField name="File ID" type="string"></SimpleField>
+	<SimpleField name="Archived R" type="float"></SimpleField>
+	<SimpleField name="LUST Event" type="float"></SimpleField>
+	<SimpleField name="CS or LUST" type="string"></SimpleField>
+	<SimpleField name="Site_Name" type="string"></SimpleField>
+	<SimpleField name="Address" type="string"></SimpleField>
+	<SimpleField name="City" type="string"></SimpleField>
+	<SimpleField name="Borough" type="string"></SimpleField>
+	<SimpleField name="State" type="string"></SimpleField>
+	<SimpleField name="Zip Code" type="float"></SimpleField>
+	<SimpleField name="Status" type="string"></SimpleField>
+	<SimpleField name="Staff" type="string"></SimpleField>
+	<SimpleField name="Landowner" type="string"></SimpleField>
+	<SimpleField name="Site_Type" type="string"></SimpleField>
+	<SimpleField name="Latitude" type="float"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+	<SimpleField name="Horizontal" type="string"></SimpleField>
+	<SimpleField name="orig_ogc_fid" type="int"></SimpleField>
+</Schema>
+<Folder><name>AlaskaResponsibleSchoolsOpen</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">23</SimpleData>
+		<SimpleData name="File ID">820.38.002</SimpleData>
+		<SimpleData name="Archived R">1980310000000.000000000000000</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Huslia Huntington School ASTs</SimpleData>
+		<SimpleData name="Address">Shore Lyin Drive</SimpleData>
+		<SimpleData name="City">Huslia</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99746</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Laura Jacobs</SimpleData>
+		<SimpleData name="Landowner">DEED</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">65.701955999999996</SimpleData>
+		<SimpleData name="Longitude">-156.388668999999993</SimpleData>
+		<SimpleData name="orig_ogc_fid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.388669,65.701956</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">99</SimpleData>
+		<SimpleData name="File ID">760.38.001</SimpleData>
+		<SimpleData name="Archived R">1981310000000.000000000000000</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Rampart School</SimpleData>
+		<SimpleData name="Address">Tracts 2A/2B of USS3677</SimpleData>
+		<SimpleData name="City">Rampart</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99767</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Christy Howard</SimpleData>
+		<SimpleData name="Landowner">DOT</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">65.504990000000006</SimpleData>
+		<SimpleData name="Longitude">-150.169990000000013</SimpleData>
+		<SimpleData name="orig_ogc_fid">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-150.16999,65.50499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">161</SimpleData>
+		<SimpleData name="File ID">770.38.002</SimpleData>
+		<SimpleData name="Archived R">1984310000000.000000000000000</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Minto School</SimpleData>
+		<SimpleData name="Address">Laker One St</SimpleData>
+		<SimpleData name="City">Minto</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99758</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Erin Gleason</SimpleData>
+		<SimpleData name="Landowner">DEED</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">65.152157000000003</SimpleData>
+		<SimpleData name="Longitude">-149.348141999999996</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.348142,65.152157</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">408</SimpleData>
+		<SimpleData name="File ID">1525.38.029</SimpleData>
+		<SimpleData name="Archived R">1988120000000.000000000000000</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Mount Edgecumbe High School</SimpleData>
+		<SimpleData name="Address">1330 Seward Avenue</SimpleData>
+		<SimpleData name="City">Sitka</SimpleData>
+		<SimpleData name="Borough">Sitka</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99835</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Danielle Duncan</SimpleData>
+		<SimpleData name="Landowner">Alaska Dept. of Education &amp; E. Dev.</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">57.050932000000003</SimpleData>
+		<SimpleData name="Longitude">-135.352950999999990</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-135.352951,57.050932</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">454</SimpleData>
+		<SimpleData name="File ID">2333.38.034</SimpleData>
+		<SimpleData name="Archived R">1988230000000.000000000000000</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">UA Kenai Fire Training Site (MAPTS)</SimpleData>
+		<SimpleData name="Address">Mi. 3.2 Kalifornsky Beach</SimpleData>
+		<SimpleData name="City">Soldotna</SimpleData>
+		<SimpleData name="Borough">Kenai Peninsula</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99669</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Bill O'Connell</SimpleData>
+		<SimpleData name="Landowner">University of Alaska - Anchorage</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">60.475797000000000</SimpleData>
+		<SimpleData name="Longitude">-151.137874000000011</SimpleData>
+		<SimpleData name="orig_ogc_fid">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-151.137874,60.475797</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">1037</SimpleData>
+		<SimpleData name="File ID">2426.38.001</SimpleData>
+		<SimpleData name="Archived R">1990250000000.000000000000000</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Lime Village School</SimpleData>
+		<SimpleData name="Address">Lime Village</SimpleData>
+		<SimpleData name="City">Stony River</SimpleData>
+		<SimpleData name="Borough">Bethel</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99557</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Erin Gleason</SimpleData>
+		<SimpleData name="Landowner">Lime Village Traditional Council</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.355424999999997</SimpleData>
+		<SimpleData name="Longitude">-155.436844000000008</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.436844,61.355425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">1562</SimpleData>
+		<SimpleData name="File ID">2531.38.001</SimpleData>
+		<SimpleData name="Archived R">1992250000000.000000000000000</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Chignik Bay School</SimpleData>
+		<SimpleData name="Address">#1 School Road</SimpleData>
+		<SimpleData name="City">Chignik</SimpleData>
+		<SimpleData name="Borough">Lake and Peninsula</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99564</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Joshua Barsis</SimpleData>
+		<SimpleData name="Landowner">Unknown (This &quot;Unknown&quot; Affiliate Is Linked to Multiple Sites. Do Not Modify - Instead Click Remove, Then Select or Enter Another Affiliate)</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">56.292673999999998</SimpleData>
+		<SimpleData name="Longitude">-158.405702999999988</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.405703,56.292674</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">1592</SimpleData>
+		<SimpleData name="File ID">830.38.001</SimpleData>
+		<SimpleData name="Archived R">1992310000000.000000000000000</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Koyukuk Elementary School</SimpleData>
+		<SimpleData name="Address">Koyukuk</SimpleData>
+		<SimpleData name="City">Koyukuk</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99754</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">John Carnahan</SimpleData>
+		<SimpleData name="Landowner">DEED</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">64.881542999999994</SimpleData>
+		<SimpleData name="Longitude">-157.704205000000002</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.704205,64.881543</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">1605</SimpleData>
+		<SimpleData name="File ID">160.38.001</SimpleData>
+		<SimpleData name="Archived R">1992310000000.000000000000000</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Circle School - Teacher's Housing</SimpleData>
+		<SimpleData name="Address">Old School Location</SimpleData>
+		<SimpleData name="City">Circle</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99733</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Erin Gleason</SimpleData>
+		<SimpleData name="Landowner">Yukon Flats School District (DEED)</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">65.825282000000001</SimpleData>
+		<SimpleData name="Longitude">-144.063720999999987</SimpleData>
+		<SimpleData name="orig_ogc_fid">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-144.063721,65.825282</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">1892</SimpleData>
+		<SimpleData name="File ID">2430.38.002</SimpleData>
+		<SimpleData name="Archived R">1993250000000.000000000000000</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Mountain Village Elementary School</SimpleData>
+		<SimpleData name="Address">High School Road</SimpleData>
+		<SimpleData name="City">Mountain Village</SimpleData>
+		<SimpleData name="Borough">Wade Hampton</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99632</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Erin Gleason</SimpleData>
+		<SimpleData name="Landowner">Lower Yukon School District (DEED)</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">62.089334000000001</SimpleData>
+		<SimpleData name="Longitude">-163.728205000000003</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">26</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-163.728205,62.089334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">2197</SimpleData>
+		<SimpleData name="File ID">2611.57.001</SimpleData>
+		<SimpleData name="Archived R">1994250000000.000000000000000</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Manokotak School</SimpleData>
+		<SimpleData name="Address">Salmon Street</SimpleData>
+		<SimpleData name="City">Manokotak</SimpleData>
+		<SimpleData name="Borough">Dillingham</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99628</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Joy Whitsel</SimpleData>
+		<SimpleData name="Landowner">Southwest Region School District (DEED)</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">58.980257999999999</SimpleData>
+		<SimpleData name="Longitude">-159.058445000000006</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">29</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-159.058445,58.980258</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">2312</SimpleData>
+		<SimpleData name="File ID">800.38.001</SimpleData>
+		<SimpleData name="Archived R">1994310000000.000000000000000</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Allakaket School</SimpleData>
+		<SimpleData name="Address">1 Main Street</SimpleData>
+		<SimpleData name="City">Allakaket</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99720</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Lisa Griswold</SimpleData>
+		<SimpleData name="Landowner">DEED</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">66.563500000000005</SimpleData>
+		<SimpleData name="Longitude">-152.644599999999997</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-152.6446,66.5635</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">2645</SimpleData>
+		<SimpleData name="File ID">810.38.003, 810.57.001</SimpleData>
+		<SimpleData name="Archived R">1996310000000.000000000000000</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Hughes School &amp; Community Tank Farm</SimpleData>
+		<SimpleData name="Address">110 Front Street</SimpleData>
+		<SimpleData name="City">Hughes</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99745</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Lisa Griswold</SimpleData>
+		<SimpleData name="Landowner">ADNR (DEED)</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">66.046000000000006</SimpleData>
+		<SimpleData name="Longitude">-154.258000000000010</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">33</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-154.258,66.046</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">2817</SimpleData>
+		<SimpleData name="File ID">2448.38.001</SimpleData>
+		<SimpleData name="Archived R">1997250000000.000000000000000</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Sleetmute School Spill</SimpleData>
+		<SimpleData name="Address">29 Sleetmute</SimpleData>
+		<SimpleData name="City">Sleetmute</SimpleData>
+		<SimpleData name="Borough">Bethel</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99668</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Chelsy Passmore</SimpleData>
+		<SimpleData name="Landowner">DEED</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.702500000000001</SimpleData>
+		<SimpleData name="Longitude">-157.169722000000007</SimpleData>
+		<SimpleData name="orig_ogc_fid">35</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.169722,61.7025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">3355</SimpleData>
+		<SimpleData name="File ID">2413.38.006</SimpleData>
+		<SimpleData name="Archived R">2000250000000.000000000000000</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Emmonak School Tank Farm</SimpleData>
+		<SimpleData name="Address">Delta St. near Kwiguk St.</SimpleData>
+		<SimpleData name="City">Emmonak</SimpleData>
+		<SimpleData name="Borough">Wade Hampton</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99581</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Lisa Griswold</SimpleData>
+		<SimpleData name="Landowner">DEED</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">62.777250000000002</SimpleData>
+		<SimpleData name="Longitude">-164.530499999999989</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">42</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-164.5305,62.77725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">3367</SimpleData>
+		<SimpleData name="File ID">2402.38.001</SimpleData>
+		<SimpleData name="Archived R">2000250000000.000000000000000</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Akiak Elementary School Former Tank Farm</SimpleData>
+		<SimpleData name="Address">W Bank of Kuskokwim River</SimpleData>
+		<SimpleData name="City">Akiak</SimpleData>
+		<SimpleData name="Borough">Bethel</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99552</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Lisa Griswold</SimpleData>
+		<SimpleData name="Landowner">Village Council- Akiak Native Community (DEED)</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">60.910443999999998</SimpleData>
+		<SimpleData name="Longitude">-161.217250000000007</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">43</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-161.21725,60.910444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">3371</SimpleData>
+		<SimpleData name="File ID">2416.38.001</SimpleData>
+		<SimpleData name="Archived R">2000250000000.000000000000000</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Grayling Iditarod School former TF</SimpleData>
+		<SimpleData name="Address">3rd and &quot;D&quot; Streets</SimpleData>
+		<SimpleData name="City">Grayling</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99590</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Grant Lidren</SimpleData>
+		<SimpleData name="Landowner">Iditarod Area School District (DEED)</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">62.905403000000000</SimpleData>
+		<SimpleData name="Longitude">-160.063065999999992</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">44</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-160.063066,62.905403</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">3376</SimpleData>
+		<SimpleData name="File ID">2416.38.006</SimpleData>
+		<SimpleData name="Archived R">2000250000000.000000000000000</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Grayling BIA School Tank Farm</SimpleData>
+		<SimpleData name="Address">1st and &quot;C&quot; Streets</SimpleData>
+		<SimpleData name="City">Grayling</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99590</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Grant Lidren</SimpleData>
+		<SimpleData name="Landowner">Iditarod Area School District (DEED)</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">62.905239000000002</SimpleData>
+		<SimpleData name="Longitude">-160.064103999999986</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">45</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-160.064104,62.905239</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">3782</SimpleData>
+		<SimpleData name="File ID">2408.38.008</SimpleData>
+		<SimpleData name="Archived R">2001250000000.000000000000000</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Chefornak Former BIA School Tanks</SimpleData>
+		<SimpleData name="Address">South Bank of Kinia River</SimpleData>
+		<SimpleData name="City">Chefornak</SimpleData>
+		<SimpleData name="Borough">Bethel</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99561</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Erin Gleason</SimpleData>
+		<SimpleData name="Landowner">Unknown (This &quot;Unknown&quot; Affiliate Is Linked to Multiple Sites. Do Not Modify - Instead Click Remove, Then Select or Enter Another Affiliate) (DEED)</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">60.159391999999997</SimpleData>
+		<SimpleData name="Longitude">-164.270584000000014</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-164.270584,60.159392</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">3944</SimpleData>
+		<SimpleData name="File ID">790.38.002, 790.57.002</SimpleData>
+		<SimpleData name="Archived R">2002310000000.000000000000000</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Beaver School Tank Farm</SimpleData>
+		<SimpleData name="Address">N. Bank of Yukon River</SimpleData>
+		<SimpleData name="City">Beaver</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99724</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Laura Jacobs</SimpleData>
+		<SimpleData name="Landowner">U.S. Department of Interior, Fish and Wildlife Service (DEED)</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">66.359684999999999</SimpleData>
+		<SimpleData name="Longitude">-147.396634000000006</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">51</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-147.396634,66.359685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">3948</SimpleData>
+		<SimpleData name="File ID">840.38.003</SimpleData>
+		<SimpleData name="Archived R">2002310000000.000000000000000</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Andrew K. Demoski School - Nulato</SimpleData>
+		<SimpleData name="Address">NW Bank of Yukon River, Nulato</SimpleData>
+		<SimpleData name="City">Nulato</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99765</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Erin Gleason</SimpleData>
+		<SimpleData name="Landowner">Gana-A' Yoo, Limited (DEED)</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">64.718362999999997</SimpleData>
+		<SimpleData name="Longitude">-158.108951999999988</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.108952,64.718363</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">4100</SimpleData>
+		<SimpleData name="File ID">160.38.002</SimpleData>
+		<SimpleData name="Archived R">2004310000000.000000000000000</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Circle School Fuel Release</SimpleData>
+		<SimpleData name="Address">Adjacent to Old Boiler Rm</SimpleData>
+		<SimpleData name="City">Circle</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99733</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Erin Gleason</SimpleData>
+		<SimpleData name="Landowner">Yukon Flats School District (DEED)</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">65.827500000000001</SimpleData>
+		<SimpleData name="Longitude">-144.069166999999993</SimpleData>
+		<SimpleData name="orig_ogc_fid">57</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-144.069167,65.8275</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">4247</SimpleData>
+		<SimpleData name="File ID">740.38.017</SimpleData>
+		<SimpleData name="Archived R">2005310000000.000000000000000</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Fort Yukon School</SimpleData>
+		<SimpleData name="Address">East Second Avenue and Hill Street</SimpleData>
+		<SimpleData name="City">Fort Yukon</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99740</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Erin Gleason</SimpleData>
+		<SimpleData name="Landowner">Yukon Flats School District (DEED)</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">66.564268999999996</SimpleData>
+		<SimpleData name="Longitude">-145.253219999999999</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">60</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-145.25322,66.564269</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">4338</SimpleData>
+		<SimpleData name="File ID">2425.57.001</SimpleData>
+		<SimpleData name="Archived R">2002250000000.000000000000000</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Former BIA School (Kwigillingok)</SimpleData>
+		<SimpleData name="Address">Kwigillingok BIA Complex</SimpleData>
+		<SimpleData name="City">Kwigillingok</SimpleData>
+		<SimpleData name="Borough">Bethel</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99622</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Christy Howard</SimpleData>
+		<SimpleData name="Landowner">Alaska Dept. of Education &amp; E. Dev.</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">59.863841999999998</SimpleData>
+		<SimpleData name="Longitude">-163.137564999999995</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">64</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-163.137565,59.863842</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">4546</SimpleData>
+		<SimpleData name="File ID">2452.57.001</SimpleData>
+		<SimpleData name="Archived R">2007250000000.000000000000000</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Tuntutuliak Former BIA School Site</SimpleData>
+		<SimpleData name="Address">Tuntutuliaq Road</SimpleData>
+		<SimpleData name="City">Tuntutuliak</SimpleData>
+		<SimpleData name="Borough">Bethel</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99680</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Christy Howard</SimpleData>
+		<SimpleData name="Landowner">Alaska Department of Education and Early Development</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">60.343622000000003</SimpleData>
+		<SimpleData name="Longitude">-162.665888999999993</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">66</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-162.665889,60.343622</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">4587</SimpleData>
+		<SimpleData name="File ID">2658.57.001</SimpleData>
+		<SimpleData name="Archived R">2007250000000.000000000000000</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Togiak School</SimpleData>
+		<SimpleData name="Address">South of Second Avenue</SimpleData>
+		<SimpleData name="City">Togiak</SimpleData>
+		<SimpleData name="Borough">Dillingham</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99678</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Christy Howard</SimpleData>
+		<SimpleData name="Landowner">City of Togiak (DEED)</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">59.060218999999996</SimpleData>
+		<SimpleData name="Longitude">-160.377854000000013</SimpleData>
+		<SimpleData name="Horizontal">NAD83</SimpleData>
+		<SimpleData name="orig_ogc_fid">68</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-160.377854,59.060219</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">4614</SimpleData>
+		<SimpleData name="File ID">460.38.002</SimpleData>
+		<SimpleData name="Archived R">2001320000000.000000000000000</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Kiana High School Former Tank Farm</SimpleData>
+		<SimpleData name="Address">Casonoff Street</SimpleData>
+		<SimpleData name="City">Kiana</SimpleData>
+		<SimpleData name="Borough">Northwest Arctic</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99749</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Kara Kusche</SimpleData>
+		<SimpleData name="Landowner">DEED</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">66.972103000000004</SimpleData>
+		<SimpleData name="Longitude">-160.436946000000006</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">70</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-160.436946,66.972103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">4621</SimpleData>
+		<SimpleData name="File ID">460.38.005</SimpleData>
+		<SimpleData name="Archived R">2001320000000.000000000000000</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Kiana Elementary School Former Tank Farm</SimpleData>
+		<SimpleData name="Address">Taylor Road</SimpleData>
+		<SimpleData name="City">Kiana</SimpleData>
+		<SimpleData name="Borough">Northwest Arctic</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99749</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Kara Kusche</SimpleData>
+		<SimpleData name="Landowner">DEED</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">66.972892999999999</SimpleData>
+		<SimpleData name="Longitude">-160.427951000000007</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">71</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-160.427951,66.972893</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">4642</SimpleData>
+		<SimpleData name="File ID">2453.38.005</SimpleData>
+		<SimpleData name="Archived R">2001250000000.000000000000000</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Tununak Former BIA School Tank Farm</SimpleData>
+		<SimpleData name="Address">SW of Former BIA School</SimpleData>
+		<SimpleData name="City">Tununak</SimpleData>
+		<SimpleData name="Borough">Bethel</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99681</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Chelsy Passmore</SimpleData>
+		<SimpleData name="Landowner">Alaska Dept. of Education &amp; E. Dev.</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">60.585106000000003</SimpleData>
+		<SimpleData name="Longitude">-165.252603999999991</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-165.252604,60.585106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">4648</SimpleData>
+		<SimpleData name="File ID">720.38.002</SimpleData>
+		<SimpleData name="Archived R">2003310000000.000000000000000</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Chalkyitsik School Bulk Fuel Storage</SimpleData>
+		<SimpleData name="Address">Salmon Avenue and Fishhook Drive</SimpleData>
+		<SimpleData name="City">Chalkyitsik</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99788</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Lisa Griswold</SimpleData>
+		<SimpleData name="Landowner">DEED</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">66.650182000000001</SimpleData>
+		<SimpleData name="Longitude">-143.727886000000012</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">73</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-143.727886,66.650182</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">25241</SimpleData>
+		<SimpleData name="File ID">2433.38.004</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Napaskiak Former BIA School Day Tanks</SimpleData>
+		<SimpleData name="Address">Northwest of Z. John Williams School</SimpleData>
+		<SimpleData name="City">Napaskiak</SimpleData>
+		<SimpleData name="Borough">Bethel</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99559</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Grant Lidren</SimpleData>
+		<SimpleData name="Landowner">Lower Kuskokwim School District (DEED)</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">60.707937000000001</SimpleData>
+		<SimpleData name="Longitude">-161.763034000000005</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">75</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-161.763034,60.707937</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">25275</SimpleData>
+		<SimpleData name="File ID">2423.38.005</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Lower Yukon School District Former Tank Farm, Kotlik</SimpleData>
+		<SimpleData name="Address">W of Former Elementary School; N of Former BIA School Playground</SimpleData>
+		<SimpleData name="City">Kotlik</SimpleData>
+		<SimpleData name="Borough">Wade Hampton</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99620</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Christy Howard</SimpleData>
+		<SimpleData name="Landowner">Lower Yukon School District (DEED)</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">63.033025000000002</SimpleData>
+		<SimpleData name="Longitude">-163.556019999999990</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">76</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-163.55602,63.033025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">25349</SimpleData>
+		<SimpleData name="File ID">245.57.001</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Old BIA Copper Center School</SimpleData>
+		<SimpleData name="Address">Old Richardson Highway</SimpleData>
+		<SimpleData name="City">Copper Center</SimpleData>
+		<SimpleData name="Borough">Valdez Cordova</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99573</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Lisa Griswold</SimpleData>
+		<SimpleData name="Landowner">Alaska Department of Natural Resources</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">61.972316999999997</SimpleData>
+		<SimpleData name="Longitude">-145.319572999999991</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">78</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-145.319573,61.972317</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">25405</SimpleData>
+		<SimpleData name="File ID">2545.38.001</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Ekwok School Fuel Storage Area and Pipeline</SimpleData>
+		<SimpleData name="Address">School Fuel Storage Area and Pipeline</SimpleData>
+		<SimpleData name="City">Ekwok</SimpleData>
+		<SimpleData name="Borough">Dillingham</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99580</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Lisa Griswold</SimpleData>
+		<SimpleData name="Landowner">Southwest Region Schools</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">59.349179999999997</SimpleData>
+		<SimpleData name="Longitude">-157.476920000000007</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">81</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.47692,59.34918</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">25407</SimpleData>
+		<SimpleData name="File ID">2405.38.009</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Anvik Former School Site</SimpleData>
+		<SimpleData name="Address">Old School Road</SimpleData>
+		<SimpleData name="City">Anvik</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99558</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Amy Rodman</SimpleData>
+		<SimpleData name="Landowner">EPISCOPAL DIOCESE OF ALASKA</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">62.654665000000001</SimpleData>
+		<SimpleData name="Longitude">-160.205942999999991</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">82</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-160.205943,62.654665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">25427</SimpleData>
+		<SimpleData name="File ID">2434.57.001</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Newtok - Old BIA School</SimpleData>
+		<SimpleData name="Address">Old BIA School - Newtok</SimpleData>
+		<SimpleData name="City">Newtok</SimpleData>
+		<SimpleData name="Borough">Bethel</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99559</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Christy Howard</SimpleData>
+		<SimpleData name="Landowner">Lower Kuskokwim School District</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">60.939320000000002</SimpleData>
+		<SimpleData name="Longitude">-164.629989999999992</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">86</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-164.62999,60.93932</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">25446</SimpleData>
+		<SimpleData name="File ID">2618.57.002</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">New Stuyahok Old BIA School</SimpleData>
+		<SimpleData name="Address">400 Avec Road</SimpleData>
+		<SimpleData name="City">New Stuyahok</SimpleData>
+		<SimpleData name="Borough">Dillingham</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99636</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Kara Kusche</SimpleData>
+		<SimpleData name="Landowner">Southwest Region School District</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">59.450755999999998</SimpleData>
+		<SimpleData name="Longitude">-157.311692999999991</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">90</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.311693,59.450756</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">25486</SimpleData>
+		<SimpleData name="File ID">400.38.046</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">UAF Northwest Campus Parking</SimpleData>
+		<SimpleData name="Address">East Front Street, Between Moore Way and Campbell Way</SimpleData>
+		<SimpleData name="City">Nome</SimpleData>
+		<SimpleData name="Borough">Nome</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99762</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Robert Burgess</SimpleData>
+		<SimpleData name="Landowner">University of Alaska - Fairbanks</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">64.496200000000002</SimpleData>
+		<SimpleData name="Longitude">-165.396269999999987</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">94</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-165.39627,64.4962</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">25493</SimpleData>
+		<SimpleData name="File ID">2412.57.001</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Eek Old BIA School and Tanks</SimpleData>
+		<SimpleData name="Address">Old BIA School</SimpleData>
+		<SimpleData name="City">Eek</SimpleData>
+		<SimpleData name="Borough">Bethel</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99578</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Lisa Griswold</SimpleData>
+		<SimpleData name="Landowner">State of Alaska Department of Education</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">60.218000000000004</SimpleData>
+		<SimpleData name="Longitude">-162.021999999999991</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">95</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-162.022,60.218</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">25502</SimpleData>
+		<SimpleData name="File ID">2420.57.001, 2420.38.003</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Kasigluk-Akiuk Old BIA School Tank Farm</SimpleData>
+		<SimpleData name="Address">Old BIA School Tank Farm</SimpleData>
+		<SimpleData name="City">Kasigluk</SimpleData>
+		<SimpleData name="Borough">Bethel</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99609</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Lisa Griswold</SimpleData>
+		<SimpleData name="Landowner">Lower Kuskokwim School District</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">60.895000000000003</SimpleData>
+		<SimpleData name="Longitude">-162.519000000000005</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">96</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-162.519,60.895</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">25555</SimpleData>
+		<SimpleData name="File ID">2412.38.003</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Eek LKSD Tank Farm</SimpleData>
+		<SimpleData name="Address">Lower Kuskokwim School District School Tank Farm</SimpleData>
+		<SimpleData name="City">Eek</SimpleData>
+		<SimpleData name="Borough">Bethel</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99578</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Joy Whitsel</SimpleData>
+		<SimpleData name="Landowner">Lower Kuskokwim School District</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">60.216000000000001</SimpleData>
+		<SimpleData name="Longitude">-162.025000000000006</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">97</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-162.025,60.216</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">25659</SimpleData>
+		<SimpleData name="File ID">105.38.008</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">UAF Arctic Health Building</SimpleData>
+		<SimpleData name="Address">901 North Koyukuk Drive</SimpleData>
+		<SimpleData name="City">Fairbanks</SimpleData>
+		<SimpleData name="Borough">Fairbanks North Star</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99775</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Michael Hooper</SimpleData>
+		<SimpleData name="Landowner">UAF - Environmental Health, Safety &amp; Risk Management</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">64.858116999999993</SimpleData>
+		<SimpleData name="Longitude">-147.848336999999987</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">101</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-147.848337,64.858117</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">26101</SimpleData>
+		<SimpleData name="File ID">850.38.005</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Kaltag School Former BIA Tank Farm</SimpleData>
+		<SimpleData name="Address">Near Kaltag School</SimpleData>
+		<SimpleData name="City">Kaltag</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99748</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Jim Fish</SimpleData>
+		<SimpleData name="Landowner">Alaska Dept. of Natural Res. - Land</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">64.324496999999994</SimpleData>
+		<SimpleData name="Longitude">-158.722635999999994</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">102</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.722636,64.324497</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">26137</SimpleData>
+		<SimpleData name="File ID">870.38.004</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">ADNR Former Head Start Bldg - Ruby</SimpleData>
+		<SimpleData name="Address">Good Time Road</SimpleData>
+		<SimpleData name="City">Ruby</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99768</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Robert Burgess</SimpleData>
+		<SimpleData name="Landowner">ADNR - Fairbanks</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">64.739232000000001</SimpleData>
+		<SimpleData name="Longitude">-155.489024000000001</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">104</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.489024,64.739232</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">26396</SimpleData>
+		<SimpleData name="File ID">2510.38.004</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Aleknagik School Day Tank</SimpleData>
+		<SimpleData name="Address">574 Kenny Wren Road</SimpleData>
+		<SimpleData name="City">Aleknagik</SimpleData>
+		<SimpleData name="Borough">Dillingham</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99555</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Eileen Olson</SimpleData>
+		<SimpleData name="Landowner">Southwest Region School District</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">59.281174999999998</SimpleData>
+		<SimpleData name="Longitude">-158.626295999999996</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">109</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-158.626296,59.281175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">26405</SimpleData>
+		<SimpleData name="File ID">2444.57.001</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Pitka's Point School</SimpleData>
+		<SimpleData name="Address">Near Intersection of St. Marys - Pitka's Point Road and Safewater Access Road; ~4 Miles SW of St. Marys</SimpleData>
+		<SimpleData name="City">Saint Marys</SimpleData>
+		<SimpleData name="Borough">Wade Hampton</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99658</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Erin Gleason</SimpleData>
+		<SimpleData name="Landowner">Alaska Dept. of Comm., Community and Econ. Develop</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">62.031868000000003</SimpleData>
+		<SimpleData name="Longitude">-163.286578999999989</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">111</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-163.286579,62.031868</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">26458</SimpleData>
+		<SimpleData name="File ID">2524.38.002</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Chiniak School 500-Gallon HOT</SimpleData>
+		<SimpleData name="Address">42551 Chiniak Highway</SimpleData>
+		<SimpleData name="City">Chiniak</SimpleData>
+		<SimpleData name="Borough">Kodiak Island</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99615</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Chelsy Passmore</SimpleData>
+		<SimpleData name="Landowner">Kodiak Island Borough</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">57.613643000000003</SimpleData>
+		<SimpleData name="Longitude">-152.234548999999987</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-152.234549,57.613643</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">26700</SimpleData>
+		<SimpleData name="File ID">2621.38.005</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Nikolski School Vertical ASTs</SimpleData>
+		<SimpleData name="Address">Intersection of Main and B Streets</SimpleData>
+		<SimpleData name="City">Nikolski</SimpleData>
+		<SimpleData name="Borough">Aleutian Islands</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99638</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Erin Gleason</SimpleData>
+		<SimpleData name="Landowner">Aleutians Region School District</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">52.940075000000000</SimpleData>
+		<SimpleData name="Longitude">-168.860187999999994</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">147</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-168.860188,52.940075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">4021</SimpleData>
+		<SimpleData name="File ID">700.38.003, 700.57.001</SimpleData>
+		<SimpleData name="Archived R">2003310000000.000000000000000</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Arctic Village School Standby Gen.</SimpleData>
+		<SimpleData name="Address">NE Section of Town</SimpleData>
+		<SimpleData name="City">Arctic Village</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99722</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Janice Wiegers</SimpleData>
+		<SimpleData name="Landowner">Native Village of Venetie Tribal Government</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">68.128620999999995</SimpleData>
+		<SimpleData name="Longitude">-145.534551999999991</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">154</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-145.534552,68.128621</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AlaskaResponsibleSchoolsOpen">
+		<SimpleData name="Hazard ID">1599</SimpleData>
+		<SimpleData name="File ID">700.38.001, 700.57.001</SimpleData>
+		<SimpleData name="Archived R">1992310000000.000000000000000</SimpleData>
+		<SimpleData name="CS or LUST">CSP</SimpleData>
+		<SimpleData name="Site_Name">Arctic Village School</SimpleData>
+		<SimpleData name="Address">East Fork Chandalar River</SimpleData>
+		<SimpleData name="City">Arctic Village</SimpleData>
+		<SimpleData name="Borough">Yukon Koyukuk</SimpleData>
+		<SimpleData name="State">AK</SimpleData>
+		<SimpleData name="Zip Code">99722</SimpleData>
+		<SimpleData name="Status">Open</SimpleData>
+		<SimpleData name="Staff">Janice Wiegers</SimpleData>
+		<SimpleData name="Landowner">Native Village of Venetie Tribal Government</SimpleData>
+		<SimpleData name="Site_Type">School</SimpleData>
+		<SimpleData name="Latitude">68.128648999999996</SimpleData>
+		<SimpleData name="Longitude">-145.533902000000012</SimpleData>
+		<SimpleData name="Horizontal">WGS84</SimpleData>
+		<SimpleData name="orig_ogc_fid">155</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-145.533902,68.128649</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
