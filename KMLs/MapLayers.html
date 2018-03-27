@@ -23,26 +23,26 @@
       });
       layer_0 = new google.maps.FusionTablesLayer({
         query: {
-          select: "geometry",
-          from: "1nrZ0_dZ5VGlsOYjKSLIOOMLw-m2qWIPI32qOwCy8"
+          select: "geometry", //field to plot polygons
+          from: "1nrZ0_dZ5VGlsOYjKSLIOOMLw-m2qWIPI32qOwCy8" //map id for "Alaska Median Income by County with Contaminated Sites" fusion table 
         },
         map: map,
         styleId: 2,
-        templateId: 2
+        templateId: 2 //template to use
       });
       layer_1 = new google.maps.FusionTablesLayer({
         query: {
-          select: "geometry",
-          from: "1KJhMlSmhKwZS9EHQ3ruMBK49uDBhDRWrxr8fpfxg"
+          select: "geometry", //field to plot points.
+          from: "1KJhMlSmhKwZS9EHQ3ruMBK49uDBhDRWrxr8fpfxg" //map id for "All Alaska Contaminated Sites at Schools (Open)" fusion table.
         },
         map: map,
         styleId: 2,
-        templateId: 4
+        templateId: 4 //template to use.
       });
       layer_2 = new google.maps.FusionTablesLayer({
         query: {
-          select: "geometry",
-          from: "1kc7BwHfqvQ8-lQyRKTqCBbG2i_XSR4gp_Lt5HTIh"
+          select: "geometry", //field to plot points.
+          from: "1kc7BwHfqvQ8-lQyRKTqCBbG2i_XSR4gp_Lt5HTIh" //map id for "Alaska Contaminated School Sites with Status Informational" fusion table.
         },
         map: map,
         styleId: 2,
@@ -50,8 +50,8 @@
       });
       layer_3 = new google.maps.FusionTablesLayer({
         query: {
-          select: "geometry",
-          from: "1tNpCbnkpsSuXKaa5D5MKs9JsN9sC6Cygx-mhVJDv"
+          select: "geometry", //field to plot points.
+          from: "1tNpCbnkpsSuXKaa5D5MKs9JsN9sC6Cygx-mhVJDv" //map id for "AllAKCS_Schools Resolved with Institutional Controls" fusion table.
         },
         map: map,
         styleId: 2,
@@ -59,8 +59,8 @@
       });
       layer_4 = new google.maps.FusionTablesLayer({
         query: {
-          select: "geometry",
-          from: "1WQGZO4EuiArNPPsKqEf8hVyv2hNiHKg_0Yy_bX19"
+          select: "geometry", // field to plot points.
+          from: "1WQGZO4EuiArNPPsKqEf8hVyv2hNiHKg_0Yy_bX19" //map id for "AllAKCS_SchoolsComplete" fusion table.
         },
         map: map,
         styleId: 2,
